@@ -2660,123 +2660,98 @@ Jackson, Kenneth T., Crabgrass Frontier: The Suburbanization of the United State
 James, Sydney V., Colonial Rhode Island: A History (New York: Charles Scribner's Sons, 1975).
 Johnson, Paul, Modern Times: The World from the Twenties to the Eighties (New York: Harper & Row, 1983).
 ——— The Birth of the Modern: World Society, 1815-1830 (New York: HarperCollins, 1991).
-Jones, Maldwyn Allen, American Immigration (Chicago: Universityof Chicago Press, 1960).
-Jordan, PhilipD., The NlltionalRoad (Indianapolis: Bobbs-Merrill Co., 1948).
-Josephy,jun.,AlvinM.(ed.), TheAmerican HeritageBookofIndians (Boston: American Heritage Publishing Co., 1961).
-Jowett, Garth, Film: The Detnoa-atu:Art (Boston: Little, Brown and Co., 1976).
-Keeley,JosephC., MakingInventionsPay:A PracticalGuideto Selling,Protecting,Manufacturing,and Marketing Yourlnflffltions (New York: McGraw-Hill Book Company, 1950).
-Kowinski,WilliamSevcrini,The.Milllingof America:An InsideLook at the GreatConsumer Paradise(New York: William Morrow&: Co., 1985).
-Krapp, George Philip, The English Languagein America,2. vols. (New York: The Century Co., 192.5).
-Kroc,Ray (with Robert Anderson), Grinding It Out: The Making of McDonald's (Chicago: Contemporary Books, 19n).
-Krout,John Allen,Annals of Ametuan·Sport (NewHaven: Yale University Press,1929).
-Lacey,Robert,Sir WalterRalegh(London:Wcidenfeld&::Nicolson, 1973).
-——— Ford:TheMen and the Machines(Boston: Little, Brown and Co., 1986).
-Laird, Charlton, Languagein America(New York: The World Publishing Co., 1970).
-Levenstein, Harvey A., Rel!Olutionat the Table:The TrtlllS(onnation of the Amnicon Diet (New York: Oxford University Press,1988).
-Levin,David, Cotton Mather:TheYoung Ufe of the Lord's Remembraru:er, 1663-1703 (Cambridge,Mass.: Harvard University Press, 1978).
-Liebs, Chester H., Main Streetto MiracleMile:A,nericanRoadsule Architecture(Boston: New York Graphic Society/Little,Brown and Co., 1985).
-Lingeman, Richard R., Don't You Know There'sa War Ont: The American Home Front,1941-45 (NewYork:G.P.Putnam's Sons,
-1970).
-Love,John F., McDonald's:Behindthe Arches(Toronto: Bantam
-Books, 1986).
-Lowancc,jun., Mason I., IncreaseMather (New York: Twayne
-Publishers, 1.974).
-459
-Made in A"'4riu
-Lua, William, DoNblapeak(New York: Harper lk Row, 1989). Luxenberg.Stan, RoadsideEmpires:How the Chainsfranchiud
-America(New York: Viking Books. 1985).
-McAlister, LyleN., Spain and Portugal in the New World, 1492-z700
-(Minneapolis: University of Minnesota Press, 1984).
-McDavid, jun.,RavenJ.,VarietiesofAmericanEnglish(Stanford:
-Stanford UruversityPress,198o).
-McPherson,James M., Battle Cry ofFreedom:The Ammcan Civil
-War (London: PenguinBooks/OxfordUniversityPms, 1990), Madison,James, Alexander HamiltonandJohn Jay (ed.Isaac
-Kramnick), TheFederalistPapers(London: PenguinBooks, r987). Maggio, Rosalie, The DictionaryofBias-FreeUsage:A Guide to
-NondiscrimintltrcryLanguage(Phoenix, Am.: Oryx Press1.99r). Marckwardt, Albeit H. (rev.J.L. Dillard),AmericanEnglish, ud edn.
-(New York: Oxford Univenity Press,198o).
-Martineau, Hatriet, Society in America, 3 vols. (London: Saundersand
-Otley, 1837),
-Mathews. Mitford M. (ed.), A Diction.2,yof Americanismson
-HistoricalPritu:iples,f vols. (Chicago: University of Chicago Press, 1951).
-Mee, jun., Charles L., The Genius of the People(New York: Perennial Library/Harper & Row, 1988).
-Mencken, H. L., The American Language:An Inquiry into the Developmentof Englishin the United States,•th edn. (New York: Alfred A. Knopf, 1937).
--
-———
--
-The Atnerian Language:An Inquiry into the ~opment of Englishinthe United States,suppl.1 (NewYork:AlfredA.Knopf, 1945).
-The AmericanLanguage:An Inquiryinto the Developmentof Englishin the United States,suppl. :z.(New York: AlfredA. Knopf, 1948).
-(withnewmaterial by RavenI. McDavid, jun.), The American Lmgua,ge:AnInquiryintotheIkvelopmmt ofEnglilhintheUnited States,abridged •th cdn. (New Yotk: AlfredA. Knopf,1989).
-Meyer,Jerome S., World Book of GreatInventions (ClevelandOH: The World Publishing Co., 1956).
-Milton, Joyce, Loss of Eden: A Biographyof Charlesand Anne Morrow Lindbergh(New York: Harpc:rCollins, 1993).
-Moolman, Valerie,TheRoad to Kitty Hawk (Alexandria,Va.: Time- LifeBooks, 1980).
-Morison, Samuel Eliot, The 0:cford History of the American Peop/4 (New York: Oxford University Press1,965).
-——— TheEuropeanDiscoveryof America,1 vols. (New York: Oxford University Press, 1971).
-Selea Bibliography
-Moulton,_Gary E. (ed.), Atlas of the Lewis and Clark Expedition (Lincoln: University of Nebraska Press,1983).
-- (ed.), The Journalsof the Lewisand Clark Expedition: August 30, 1803-August 2.4, 1804 (Lincoln: Universityof Nebraska Press, 1986).
-Nye, David E., Electrifying America: Social Meanings of a New Technology, i880-1940 (Cambridge, Mass.: MIT Press, 1990).
-Oakley, J.Ronald, God's Country: Amerka in the Fi(tieJ (New York: DcmbncrBooks,1986).
+Jones, Maldwyn Allen, American Immigration (Chicago: University of Chicago Press, 1960).
+Jordan, Philip D., The National Road (Indianapolis: Bobbs-Merrill Co., 1948).
+Josephy, jun., Alvin M.(ed.), The American Heritage Book of Indians (Boston: American Heritage Publishing Co., 1961).
+Jowett, Garth, Film: The Democratic Art (Boston: Little, Brown and Co., 1976).
+Keeley, Joseph C., Making Inventions Pay: A Practical Guide to Selling, Protecting, Manufacturing, and Marketing Your Inventions (New York: McGraw-Hill Book Company, 1950).
+Kowinski, William Severini, The Malling of America: An Inside Look at the Great Consumer Paradise (New York: William Morrow & Co., 1985).
+Krapp, George Philip, The English Language in America, 2 vols. (New York: The Century Co., 1925).
+Kroc, Ray (with Robert Anderson), Grinding It Out: The Making of McDonald's (Chicago: Contemporary Books, 1977).
+Krout, John Allen, Annals of American Sport (New Haven: Yale University Press, 1929).
+Lacey, Robert, Sir Walter Ralegh (London: Weidenfeld & Nicolson, 1973).
+——— Ford: The Men and the Machines (Boston: Little, Brown and Co., 1986).
+Laird, Charlton, Language in America (New York: The World Publishing Co., 1970).
+Levenstein, Harvey A., Revolution at the Table: The Transformation of the American Diet (New York: Oxford University Press, 1988).
+Levin, David, Cotton Mather: The Young Life of the Lord's Remembrancer, 1663-1703 (Cambridge, Mass.: Harvard University Press, 1978).
+Liebs, Chester H., Main Street to Miracle Mile: American Roadside Architecture (Boston: New York Graphic Society/Little, Brown and Co., 1985).
+Lingeman, Richard R., Don't You Know There's a War On?: The American Home Front, 1941-45 (New York: G. P. Putnam's Sons, 1970).
+Love, John F., McDonald's: Behind the Arches (Toronto: Bantam Books, 1986).
+Lowance, jun., Mason I., Increase Mather (New York: Twayne Publishers, 1974).
+Lutz, William, Doublespeak (New York: Harper & Row, 1989).
+Luxenberg, Stan, Roadside Empires: How the Chains Franchised America (New York: Viking Books. 1985).
+McAlister, Lyle N., Spain and Portugal in the New World, 1492-1700 (Minneapolis: University of Minnesota Press, 1984).
+McDavid, jun., RavenJ., Varieties of American English (Stanford: Stanford University Press, 1980).
+McPherson, James M., Battle Cry of Freedom: The American Civil War (London: Penguin Books/Oxford University Press, 1990),
+Madison, James, Alexander Hamilton and John Jay (ed. Isaac Kramnick), The Federalist Papers (London: Penguin Books, 1987).
+Maggio, Rosalie, The Dictionary of Bias-Free Usage: A Guide to Nondiscriminatory Language (Phoenix, Ariz.: Oryx Press, 1991).
+Marckwardt, Albeit H. (rev. J. L. Dillard), American English, 2nd edn. (New York: Oxford University Press, 1980).
+Martineau, Harriet, Society in America, 3 vols. (London: Saunders and Otley, 1837).
+Mathews. Mitford M. (ed.), A Dictionary of Americanisms on Historical Principles, 4 vols. (Chicago: University of Chicago Press, 1951).
+Mee, jun., Charles L., The Genius of the People (New York: Perennial Library/Harper & Row, 1988).
+Mencken, H. L., The American Language: An Inquiry into the Development of English in the United States, 4th edn. (New York: Alfred A. Knopf, 1937).
+——— The American Language: An Inquiry into the Develoopment of English in the United States, suppl. 1 (New York: Alfred A. Knopf, 1945).
+——— The American Language: An Inquiry into the Develoopment of English in the United States, suppl. 2 (New York: Alfred A. Knopf, 1948).
+——— (with new material by Raven I. McDavid, jun.), The American Language: An Inquiry into the Develoopment of English in the United States, abridged 4th edn. (New York: Alfred A. Knopf, 1989).
+Meyer, Jerome S., World Book of Great Inventions (Cleveland, OH: The World Publishing Co., 1956).
+Milton, Joyce, Loss of Eden: A Biography of Charles and Anne Morrow Lindbergh (New York: HarperCollins, 1993).
+Moolman, Valerie, The Road to Kitty Hawk (Alexandria, Va.: Time- Life Books, 1980).
+Morison, Samuel Eliot, The Oxford History of the American People (New York: Oxford University Press, 1965).
+——— The European Discovery of America, 2 vols. (New York: Oxford University Press, 1971).
+Moulton, Gary E. (ed.), Atlas of the Lewis and Clark Expedition (Lincoln: University of Nebraska Press,1983).
+——— (ed.), The Journals of the Lewis and Clark Expedition: August 30, 1803–August 24, 1804 (Lincoln: University of Nebraska Press, 1986).
+Nye, David E., Electrifying America: Social Meanings of a New Technology, 1880–1940 (Cambridge, Mass.: MIT Press, 1990).
+Oakley, J. Ronald, God's Country: America in the Fifties (New York: Dembner Books, 1986).
 O'Malley, Michael, Keeping Watch: A History of American Time (New York: Viking Penguin, 1990).
-Opie, Iona, and Peter Opie, The Oxford Dictionary of Nursery Rhymes (Oxford: darcndon Press,1951).
-Partridge, Eric, and John W. Clark, Britishand AmericanEnglishSi,rce 1900 (London: Andrew Dakers Ltd, 1951).
-Patton, Phil,OpenRoad:AC,e/ebratio"oftheAmericanHighway (New York: Simon and Schuster, 1986).
-Peirce,NealR.,TheNewEnglandStates(NewYork:W.W.Norton &Co., 1976).
-I Pyles;Thomas, Wordsand Waysof AmericanEnglish(New York: Random House, 19p.).
-- Seleaed Essayson English Usage(Gainesville:UniversityPresses of Florida, 1979).
-Quinn, DavidBeen, SetFairforRoanoke:VoyagesandC,olonies, 1584-1606 (ChapelHill:UniversityofNorth CarQlinaPress,1,84).
-- North Americafrom Earlmt Discoveryto FirstSettkments (New York: Harper & Row, 1985).
-Rae,John8., RoadandtheCarinAmerkanLife(Cambridge, Mass.: MIT Press, 1971).
-Rodgers,ElizabethG., Chagrin... Whencethe Name?(ChagrinFalls, OH: pub. privately, 1988).
-Root, Waverley,andRichardde Rochement,Eatingin Amerka: A History (New York: William Morrow & Co., 1976).
-Rosenberg, Bernard, andDavid ManningWhite(eds.), Ma$$Culture: ThePopulllrArtsin America(Glencoe,W.:TheFreePress,1957).
-Rowsome,jun.,Frank,TheVerubytheSideoftheRoad:TheStory of the Bunna•ShaveSig,u (Brattleboro,Vt.: StephenGreenePress, 1965).
-Rybczynski,Witold, Home: A ShortHiuory of an Idea (New York: Penguin Books. 1987).
--Waiting fortheWeekend(NewYork: VikingBooks,1991). Same,William, On Language(New York: Avon Books, 1980). ———What'stheGoodWord(New York: TimesBooks,1982.). ——— TakeMy Word forIt (New York: Times Books,1986).
-46,
-7
-M4deinAmmta
-——— C-ommgto Tmm (New York: Doubleday, 1991) •
-.Sagarin, Edward,TheAnatomyofDirtyWords(NewYork:Lyle
-Stuart, 1968).
-Savage,jun.,WilliamW.(ed.), Cowboy Life:Reconstructing""
-American Myth (Norman: University of Oklahoma Press.197s). Schiller,Hcrben I., MassCommunications and Amnkan Empire
-(New York: Augustus M. Kelley,1969).
-Schor,Juliet B.,The Ovetworked American:The UnexpectedD«line
-ofLeisure(NewYork:BasicBooks,1991). Schrank,Jeffrey,Snap, Crodt.k, and Pop"lar T1Ute:The Illusion of
-FreeChoicein America(New York: Ddacortc Press,1977). Schumach,Murray, The Faceon the Cutting Room Floor:The Story
-of Movieand Telet!UionCensorship(New York: William Morrow
-&: Co., 1964).
-Schwarz,.Barry,GeorgeWasbington:The Makingof an American
+Opie, Iona, and Peter Opie, The Oxford Dictionary of Nursery Rhymes (Oxford: Clarendon Press, 1951).
+Partridge, Eric, and John W. Clark, British and American English Since 1900 (London: Andrew Dakers Ltd, 1951).
+Patton, Phil, Open Road: A Celebration of the American Highway (New York: Simon and Schuster, 1986).
+Peirce, Neal R., The New England States (New York: W. W. Norton & Co., 1976).
+Pyles, Thomas, Words and Ways of American English (New York: Random House, 1952).
+——— Selected Essays on English Usage (Gainesville: University Presses of Florida, 1979).
+Quinn, David Beers, Set Fair for Roanoke: Voyages and Colonies, 1584-1606 (Chapel Hill: University of North Carolina Press, 1984).
+——— North America from Earliest Discovery to First Settlements (New York: Harper & Row, 1985).
+Rae, John B., Road and the Car in American Life (Cambridge, Mass.: MIT Press, 1971).
+Rodgers, Elizabeth G., Chagrin ... Whence the Name? (Chagrin Falls, OH: pub. privately, 1988).
+Root, Waverley, and Richard de Rochement, Eating in America: A History (New York: William Morrow & Co., 1976).
+Rosenberg, Bernard, and David Manning White (eds.), Mass Culture: The Popular Arts in America (Glencoe, Ill.: The Free Press,1957).
+Rowsome, jun., Frank, The Verse by the Side of the Road: The Story of the Burma-Shave Signs (Brattleboro, Vt.: Stephen Greene Press, 1965).
+Rybczynski ,Witold, Home: A Short History of an Idea (New York: Penguin Books. 1987).
+——— Waiting for the Weekend (New York: Viking Books, 1991).
+Safire, William, On Language (New York: Avon Books, 1980).
+——— What's the Good Word (New York: Times Books, 1982).
+——— Take My Word for It (New York: Times Books, 1986).
+——— Coming to Terms (New York: Doubleday, 1991).
+Sagarin, Edward, The Anatomy of Dirty Words (New York: Lyle Stuart, 1968).
+Savage, jun., William W. (ed.), Cowboy Life: Reconstructing an American Myth (Norman: University of Oklahoma Press, 1975).
+Schiller, Herbert I., Mass Communications and American Empire (New York: Augustus M. Kelley, 1969).
+Schor, Juliet B., The Overworked American: The Unexpected Decline of Leisure (New York: Basic Books, 1991).
+Schrank, Jeffrey, Snap, Crackle, and Popular Taste: The Illusion of Free Choice in America (New York: Delacorte Press, 1977).
+Schumach, Murray, The Face on the Cutting Room Floor: The Story of Movie and Television Censorship (New York: William Morrow
+& Co., 1964).
+Schwarz, Barry, George Washington: The Making of an American
 Symbol (Ithaca: Cornell University Press, 1987).
-Seavey,Ormond, Beroming Benjamin Franklin:The ANtobiography
-and the Life (UniversityPark: PennsylvaniaState UniversityPrcu, 1988).
-Shearer,BenjaminF.,and BarbaraS.Shearer,Stak Namn, Seals, Flags,andSymbols:AHistoricalGuide(NewYork:Greenwood Press, 1987).
-Simpson, David, The PoliticsofAmericanEnglish,1776-1850 (New York: Oxford Univenity Press,1986).
-Small, Herbert, The LibraryofCongress: Its Architecture12nd Decoration(New York: Arthur Ross/W. W. Nonon, 1982.).
-Smith, Elsdon C., TheStoryofOu, Namu (New York: Harper&:: Brothers, 19so).
-Smith, Page, A People'sHistory of the United States, 8 vols. (New York: McGraw-Hill.Book Company, 198•)-
-Stedman, Raymond William, ShtJdowsoftheIndian:Stereotypesin AmericanO,lture (Norman: University of Oklahoma Pttss, 1982.).
-Sterling. Christopher H., and Jon M. Kittross, Stay T11nedA: Concise Historyof AmericanBroadusting (Belmont, Calif.: Wadsworth Publishing Company, 1978).
-SteWart, GeorgeR., Names on The Lmd: A HistorieolAccount of
-Plou-Noming in the United States (New York: Random House,
-19•S),
--American P'4ce-Names:A Conciseand Seleahle Dictiotulryfor
-theContinentalUnited StatesofAmerica (NewYork: Oxford
-University Press,1970).
-Story, G. M., W. J.Kirwin andJ.D. A. Widdowson (eds.), Dictionary
-ofNewfo,mdland English,2.ndedn. (foront0: Univenityof Toronto Press.1990).
-•••
-..
-
-Selea Bibliography
-Strasser,Susml, Never Done: A History of American Housework
-(New York: Pantheon Books, 1982.).
+Seavey, Ormond, Becoming Benjamin Franklin: The Autobiography
+and the Life (University Park: Pennsylvania State University Press, 1988).
+Shearer, Benjamin F., and Barbara S. Shearer, State Names, Seals, Flags, and Symbols: A Historical Guide (New York: Greenwood Press, 1987).
+Simpson, David, The Politics of American English, 1776–1850 (New York: Oxford University Press, 1986).
+Small, Herbert, The Library of Congress: Its Architecture and Decoration (New York: Arthur Ross/W. W. Norton, 1982.).
+Smith, Elsdon C., The Story of Our Names (New York: Harper & Brothers, 1950).
+Smith, Page, A People's History of the United States, 8 vols. (New York: McGraw-Hill Book Company, 1984).
+Stedman, Raymond William, Shadows of the Indian: Stereotypes in American Culture (Norman: University of Oklahoma Press, 1982).
+Sterling. Christopher H., and Jon M. Kittross, Stay Tuned: A Concise History of American Broadcasting (Belmont, Calif.: Wadsworth Publishing Company, 1978).
+Stewart, George R., Names on The Land: A Historical Account of Place Naming in the United States (New York: Random House, 1945),
+——— American Place-Names: A Concise and Selective Dictionary for the Continental United States of America (New York: Oxford University Press, 1970).
+Story, G. M., W. J. Kirwin and J.D. A. Widdowson (eds.), Dictionary
+of Newfoundland English, 2nd. edn. (Toronto: University of Toronto Press, 1990).
+Strasser, Susan, Never Done: A History of American Housework
+(New York: Pantheon Books, 1982).
 ——— Satisfaction Guaranteed: The Making of the American Mass
-Market (New York: Pantheon Books,1989),
-Sullivan, Mark, Our Times: The United States, 1900-19.15, 2. vols.
-(New York: Charles Scribner's Sons, 192.6),
-Tannahill, Reay, Sex in History (London: Abacus/Sphere, 1981). Tcdlow, Richard S., New and Improved: The Story of Mass Marketing
-in America (New York: BasicBooks, 1990)
+Market (New York: Pantheon Books, 1989),
+Sullivan, Mark, Our Times: The United States, 1900-1925, 2 vols.
+(New York: Charles Scribner's Sons, 1926),
+Tannahill, Reay, Sex in History (London: Abacus/Sphere, 1981). Tedlow, Richard S., New and Improved: The Story of Mass Marketing
+in America (New York: Basic Books, 1990).
 Terracc, Vincent, The Complete Encyclopediaof Television Programs,
 1947-1976, 2.vols.(SouthBrunswick,NJ:A.S.Barnesand
 Company, 1976).

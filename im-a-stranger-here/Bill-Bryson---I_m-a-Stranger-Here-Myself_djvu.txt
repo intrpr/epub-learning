@@ -2039,99 +2039,41 @@ Now I read in U.S. News & World Report that the same computer industry that fail
 So it looks as if computer programmers will be putting in some late nights over the next couple of years. To which, frankly, I say hooray. Or haywire, heroin, and hoopskirt, as my computer would prefer it.
 
 
-
-
 YOUR TAX FORM EXPLAINED
 
-Enclosed is your 1998 United States Internal Revenue Service Tax Form 1040-ES OCR: “Estimated Tax
-for Self-Employed Individuals.” You may use this form to estimate your 1998 fiscal year tax IF:
+Enclosed is your 1998 United States Internal Revenue Service Tax Form 1040-ES OCR: “Estimated Tax for Self-Employed Individuals.” You may use this form to estimate your 1998 fiscal year tax IF:
 
+1. You are the head of a household AND the sum of the ages of your spouse and dependents, minus the ages of qualifying pets (see Schedule 12G), is divisible by a whole number. (Use Supplementary Schedule 142C if pets are deceased but buried on your property.)
 
-1 . You are the head of a household AND the sum of the ages of your spouse and dependents, minus the
-ages of qualifying pets (see Schedule 12G), is divisible by a whole number. (Use Supplementary
-Schedule 142C if pets are deceased but buried on your property.)
+2. Your Gross Adjusted Income does not exceed your Adjusted Gross Income (except where applicable) AND you did not pay taxable interest on dividend income prior to 1903.
 
-2. Your Gross Adjusted Income does not exceed your Adjusted Gross Income (except where
-applicable) AND you did not pay taxable interest on dividend income prior to 1903.
+3 . You are not claiming a foreign tax credit, except as a “foreign” tax credit. (Warning: Claiming a foreign tax credit for a foreign “tax” credit, except where a foreign “tax credit” is involved, may result in a fine of $125,000 and 25 years’ imprisonment.)
 
-3 . You are not claiming a foreign tax credit, except as a “foreign” tax credit. (Warning: Claiming a
-foreign tax credit for a foreign “tax” credit, except where a foreign “tax credit” is involved, may result in
-a fine of $125,000 and 25 years’ imprisonment.)
-
-4. You are one of the following: married and filing jointiy; married and not filing joindy; not married
-and not filing jointly; jointed but not filing; other.
-
+4. You are one of the following: married and filing jointiy; married and not filing joindy; not married and not filing jointly; jointed but not filing; other.
 
 Instructions
 
-Type all answers in ink with a number two lead pencil. Do not cross anything out. Do not use
-abbreviations or ditto marks. Do not misspell “miscellaneous.” Write your name, address, and social
-security number, and the name, address, and social security numbers of your spouse and dependents, in
-full on each page twice. Do not put a check mark in a box marked “cross” or a cross in a box marked
-“check mark” unless it is your express wish to do the whole thing again. Do not write “Search me” in any
-blank spaces. Do not make anything up.
+Type all answers in ink with a number two lead pencil. Do not cross anything out. Do not use abbreviations or ditto marks. Do not misspell “miscellaneous.” Write your name, address, and social security number, and the name, address, and social security numbers of your spouse and dependents, in full on each page twice. Do not put a check mark in a box marked “cross” or a cross in a box marked “check mark” unless it is your express wish to do the whole thing again. Do not write “Search me” in any blank spaces. Do not make anything up.
 
-Complete Sections 47 to 52 first, then proceed to even-numbered sections and complete in reverse
-order. Do NOT use this form if your total pensions and annuities disbursements were greater than your
+Complete Sections 47 to 52 first, then proceed to even-numbered sections and complete in reverse order. Do NOT use this form if your total pensions and annuities disbursements were greater than your advanced earned income credits OR vice versa.
 
+Under “Income,” list all wages, salaries, net foreign source taxable income, royalties, tips, gratuities, taxable interest, capital gains, air miles, and money found down the back of the sofa. If your earnings are derived wholly, or partially but not primarily, or wholly AND partially but not primarily, from countries other than the United States (if uncertain, see USIA Leaflet 212W, “Countries That Are Not the United States”) OR your rotated gross income horn Schedule H was greater than your earned income credit on nontaxable net disbursements, you MUST include a Grantor/Transferor Waiver Voucher. Failure to do so may result in a fine of $1,500,000 and seizure of a child.
 
+Under Section 890f, list total farm income (if none, give details). If you were born after January 1, 1897, and are NOT a widow(er), include excess casualty losses and provide carry over figures for depreciation on line 27iii. You MUST list number of turkeys slaughtered for export. Subtract, but do not deduct, net gross dividends horn pro rata interest payments, multiply by the total number of steps in your home, and enter on line 356d.
 
-advanced earned income credits OR vice versa.
+On Schedule F1001, line c, list the contents of your garage. Include all electrical and nonelectrical items on Schedule 295D, but DO NOT include electrical OR nonelectrical items not listed on Supplementary Form 243d.
 
-Under “Income,” list all wages, salaries, net foreign source taxable income, royalties, tips, gratuities,
-taxable interest, capital gains, air miles, and money found down the back of the sofa. If your earnings are
-derived wholly, or partially but not primarily, or wholly AND partially but not primarily, from countries
-other than the United States (if uncertain, see USIA Leaflet 212W, “Countries That Are Not the United
-States”) OR your rotated gross income horn Schedule H was greater than your earned income credit on
-nontaxable net disbursements, you MUST include a Grantor/Transferor Waiver Voucher. Failure to do so
-may result in a fine of $1,500,000 and seizure of a child.
+Under “Personal Expenditures,” itemize all cash expenditures of more than $1, and include verification. If you have had dental work and you are not claiming a refund on the federal oil spill allowance, enter your shoe sizes since birth and enclose specimen shoes (right foot only). Multiply by 1.5 or 1,319, whichever is larger, and divide line 3f by 3d. Under Section 912g, enter federal income support grants for the production of alfalfa, barley (but not sorghum, unless for home consumption), and okra WHETHER OR NOT you received any. Failure to do so may result in a fine of $3,750,000 and death by lethal injection.
 
-Under Section 890f, list total farm income (if none, give details). If you were born after January 1,
-1897, and are NOT a widow(er), include excess casualty losses and provide carry over figures for
-depreciation on line 27iii. You MUST list number of turkeys slaughtered for export. Subtract, but do not
-deduct, net gross dividends horn pro rata interest payments, multiply by the total number of steps in your
-home, and enter on line 356d.
+If your children are dependent but not living at home, or living at home but not dependent, or dependent and living at home but hardly ever there AND you are not claiming exemption for leases of maritime vessels in excess of 12,000 tons deadweight (15,000 tons if you were born in Guam), you MUST complete and include a Maritime Vessel Exemption Form Failure to do so may result in a fine of $111,000,000 and a nuclear attack on a small, neutral country.
 
-On Schedule F1001, line c, list the contents of your garage. Include all electrical and nonelectrical
-items on Schedule 295D, but DO NOT include electrical OR nonelectrical items not listed on
-Supplementary Form 243d.
+On pages 924-926, Schedule D, enter the names of people you know personally who are Communists or use drugs. (Use extra pages if necessary.)
 
-Under “Personal Expenditures,” itemize all cash expenditures of more than $1, and include
-verification. If you have had dental work and you are not claiming a refund on the federal oil spill
-allowance, enter your shoe sizes since birth and enclose specimen shoes (right foot only). Multiply by 1.5
-or 1,319, whichever is larger, and divide line 3f by 3d. Under Section 912g, enter federal income support
-grants for the production of alfalfa, barley (but not sorghum, unless for home consumption), and okra
-WHETHER OR NOT you received any. Failure to do so may result in a fine of $3,750,000 and death by
-lethal injection.
+If you have interest earnings from savings accounts, securities, bearer bonds, certificates of deposit, or other fiduciary instruments but DO NOT know your hat size, complete Supplementary Schedules 112d and 112f and enclose with all relevant tables. (Do not send chairs at this time.) Include, but do not collate, ongoing losses horn mining investments, commodities transactions, and organ transplants, divide by the total number of motel visits you made in 1996, and enter in any remaining spaces. If you have unreimbursed employee expenses, tough.
 
-If your children are dependent but not living at home, or living at home but not dependent, or dependent
-and living at home but hardly ever there AND you are not claiming exemption for leases of maritime
-vessels in excess of 12,000 tons deadweight (15,000 tons if you were born in Guam), you MUST
-complete and include a Maritime Vessel Exemption Form Failure to do so may result in a fine of
-$111,000,000 and a nuclear attack on a small, neutral country.
+To compute your estimated tax, add lines 27 through 964, deduct lines 45a and 699f horn Schedule 2F (if greater or less than 2.2% of average alternative minimum estimated tax for last five years), multiply by the number of RPMs your car registers when stuck on ice, and add 2. If line 997 is smaller than line 998, start again. In the space marked “Tax Due,” write a very large figure.
 
-On pages 924-926, Schedule D, enter the names of people you know personally who are Communists
-or use drugs. (Use extra pages if necessary.)
-
-If you have interest earnings from savings accounts, securities, bearer bonds, certificates of deposit, or
-other fiduciary instruments but DO NOT know your hat size, complete Supplementary Schedules 112d and
-112f and enclose with all relevant tables. (Do not send chairs at this time.) Include, but do not collate,
-ongoing losses horn mining investments, commodities transactions, and organ transplants, divide by the
-total number of motel visits you made in 1996, and enter in any remaining spaces. If you have
-unreimbursed employee expenses, tough.
-
-To compute your estimated tax, add lines 27 through 964, deduct lines 45a and 699f horn Schedule 2F
-(if greater or less than 2.2% of average alternative minimum estimated tax for last five years), multiply by
-the number of RPMs your car registers when stuck on ice, and add 2. If line 997 is smaller than line 998,
-start again. In the space marked “Tax Due,” write a very large figure.
-
-Make your check payable to “Internal Revenue Service of the United States of America and to the
-Republic for Which It Stands,” and mark for the attention of Patty. On the back of your check write your
-social security number, Taxpayer Identification Number, IRS Tax Code Audit Number(s), IRS Regional
-Office Sub-Unit Zone Number (UNLESS you are filing a T/45 Sub-Unit Zone Exclusion Notice), sexual
-orientation, and smoking preference, and send to:
-
-
+Make your check payable to “Internal Revenue Service of the United States of America and to the Republic for Which It Stands,” and mark for the attention of Patty. On the back of your check write your social security number, Taxpayer Identification Number, IRS Tax Code Audit Number(s), IRS Regional Office Sub-Unit Zone Number (UNLESS you are filing a T/45 Sub-Unit Zone Exclusion Notice), sexual orientation, and smoking preference, and send to:
 
 Internal Revenue Service of the United States of America
 Tax Reception and Orientation Center
@@ -2145,50 +2087,32 @@ Drawer 2, About Halfway Back
 Federal City
 Maryland 10001
 
-
-If you have any quesbons about filing, or require assistance with your return, phone 1-800-BUSY
-SIGNAL. Thank you and have a prosperous 1999. Failure to do so may result in a fine of $125,000 and a
-long walk to the cooler.
+If you have any questons about filing, or require assistance with your return, phone 1-800-BUSY-SIGNAL. Thank you and have a prosperous 1999. Failure to do so may result in a fine of $125,000 and a long walk to the cooler.
 
 
 
 
 BOOK TOURS
 
-
-Ten years ago this month, I got a phone call from an American publisher telling me that he had just bought
-one of my books and was going to send me on a three-week, sixteen-city publicity tour.
+Ten years ago this month, I got a phone call from an American publisher telling me that he had just bought one of my books and was going to send me on a three-week, sixteen-city publicity tour.
 
 “We’re going to make you a media star,” he said brightiy.
 
 “But I’ve never been on TY” I protested in mild panic.
 
-“Oh, it’s easy. You’ll love it,” he said with the blithe assurance of someone who doesn’t have to do it
-himself.
+“Oh, it’s easy. You’ll love it,” he said with the blithe assurance of someone who doesn’t have to do it himself.
 
 “No, I’ll be terrible,” I insisted. “I have no personality.”
 
-“Don’t worry, we’ll give you a personality. We’re going to fly you to New York for a course in media
+“Don’t worry, we’ll give you a personality. We’re going to fly you to New York for a course in media training.”
 
+My heart sank. All this had a bad feeling about it. For the first time since I accidentally set fire to a neighbor’s garage in 1961, I began to think seriously about the possibility of plastic surgery and a new life in Central America.
 
-training.”
+So I flew to New York and, as it turned out, the media training was less of an ordeal than I had feared. I was put in the hands of a kindly, patient man named Bill Parkhurst, who sat with me for two days in a windowless studio somewhere in Manhattan and put me through an endless series of mock interviews.
 
-My heart sank. All this had a bad feeling about it. For the first time since I accidentally set fire to a
-neighbor’s garage in 1961, I began to think seriously about the possibility of plastic surgery and a new
-life in Central America.
+He would say things like: “OK, now we’re going to do a three-minute interview with a guy who hasn’t looked at your book until ten seconds ago and doesn’t know whether it’s a cookbook or a book on prison reform Also, this guy is a tad stupid and will interrupt you frequendy. OK, let’s go.”
 
-
-So I flew to New York and, as it turned out, the media training was less of an ordeal than I had feared. I
-was put in the hands of a kindly, patient man named Bill Parkhurst, who sat with me for two days in a
-windowless studio somewhere in Manhattan and put me through an endless series of mock interviews.
-
-He would say things like: “OK, now we’re going to do a three-minute interview with a guy who hasn’t
-looked at your book until ten seconds ago and doesn’t know whether it’s a cookbook or a book on prison
-reform Also, this guy is a tad stupid and will interrupt you frequendy. OK, let’s go.”
-
-He would click his stopwatch and we would do a three-minute interview. Then we would do it again.
-And again. And so it went for two days. By the afternoon of the second day I was having to push my
-tongue back in my mouth with my fingers.
+He would click his stopwatch and we would do a three-minute interview. Then we would do it again. And again. And so it went for two days. By the afternoon of the second day I was having to push my tongue back in my mouth with my fingers.
 
 “Now you know what you’ll feel like by the second day of your tour,” Parkhurst observed cheerfully.
 
@@ -2196,34 +2120,15 @@ tongue back in my mouth with my fingers.
 
 Parkhurst smiled. “You’ll love it.”
 
+Amazingly he was nearly right. Book tours are actually kind of fun. You get to stay in nice hotels, you are driven everywhere in big silver cars, you are treated as if you are much more important than you actually are, you can eat steak three times a day at someone else’s expense, and you get to talk endlessly about yourself for weeks at a stretch. Is this a dream come true or what?
 
-Amazingly he was nearly right. Book tours are actually kind of fun. You get to stay in nice hotels, you
-are driven everywhere in big silver cars, you are treated as if you are much more important than you
-actually are, you can eat steak three times a day at someone else’s expense, and you get to talk endlessly
-about yourself for weeks at a stretch. Is this a dream come true or what?
+It was an entirely new world for me. As you will recall if you have been committing these pieces to memory, when I was growing up my father always took us to the cheapest motels imaginable — the sort of places that made the Bates Motel in Psycho look sophisticated and well appointed — so this was a gratifyingly novel experience. I had never before stayed in a really fancy hotel, never ordered from room service, never called on the services of a concierge or valet, never tipped a doorman. (Still haven’t!)
 
-It was an entirely new world for me. As you will recall if you have been committing these pieces to
+The great revelation to me was room service. I grew up thinking that ordering from the room service menu was the pinnacle of graciousness — something that happened in Cary Grant movies but not in the world I knew — so when a publicity person suggested I make free use of it, I jumped at the chance. In doing so I discovered something you doubdess knew already: Room service is terrible.
 
+I ordered room service meals at least a dozen times in hotels all over the country, and it was always dire. The food would take hours to arrive and it was invariably cold and leathery. I was always fascinated by how much effort went into the presentation — the white tablecloth, the vase with a rose in it, the ostentatious removal of a domed silver lid from each plate — and how little went into keeping the food warm and tasty.
 
-
-memory, when I was growing up my father always took us to the cheapest motels imaginable — the sort of
-places that made the Bates Motel in Psycho look sophisticated and well appointed — so this was a
-gratifyingly novel experience. I had never before stayed in a really fancy hotel, never ordered from room
-service, never called on the services of a concierge or valet, never tipped a doorman. (Still haven’t!)
-
-The great revelation to me was room service. I grew up thinking that ordering from the room service
-menu was the pinnacle of graciousness — something that happened in Cary Grant movies but not in the
-world I knew — so when a publicity person suggested I make free use of it, I jumped at the chance. In
-doing so I discovered something you doubdess knew already: Room service is terrible.
-
-I ordered room service meals at least a dozen times in hotels all over the country, and it was always
-dire. The food would take hours to arrive and it was invariably cold and leathery. I was always
-fascinated by how much effort went into the presentation — the white tablecloth, the vase with a rose in it,
-the ostentatious removal of a domed silver lid from each plate — and how little went into keeping the food
-warm and tasty.
-
-At the Huntington Hotel in San Francisco, I particularly remember, the waiter whipped away a silver
-lid to reveal a bowl of white goo.
+At the Huntington Hotel in San Francisco, I particularly remember, the waiter whipped away a silver lid to reveal a bowl of white goo.
 
 “What’s that?” I asked.
 
@@ -2233,185 +2138,66 @@ lid to reveal a bowl of white goo.
 
 “Yes it has,” he agreed. “Enjoy,” he added with a bow, pocketing a large tip and withdrawing.
 
-Of course, on book tours it’s not all lounging around in swank hotel rooms, watching TV and eating
-melted ice cream You also have to give interviews — lots and lots of them, more than you can imagine,
-often from before dawn until after midnight — and do a positively ludicrous amount of traveling in
-between. Because there are so many authors out there pushing their books — as many as two hundred at
-busy periods, I was told — and only so many radio and TV programs to appear on, you tend to be
-dispatched to wherever there is an available slot. In one five-day period, I flew from San Francisco to
-Atlanta to Chicago to Boston and back to San Francisco. I once flew from Denver to Colorado Springs in
-order to do a thirty-second interview that — I swear — went approximately like this:
+Of course, on book tours it’s not all lounging around in swank hotel rooms, watching TV and eating melted ice cream You also have to give interviews — lots and lots of them, more than you can imagine, often from before dawn until after midnight — and do a positively ludicrous amount of traveling in between. Because there are so many authors out there pushing their books — as many as two hundred at busy periods, I was told — and only so many radio and TV programs to appear on, you tend to be dispatched to wherever there is an available slot. In one five-day period, I flew from San Francisco to Atlanta to Chicago to Boston and back to San Francisco. I once flew from Denver to Colorado Springs in order to do a thirty-second interview that — I swear — went approximately like this:
 
 Interviewer: “Our guest today is Bill Bryson. So you’ve got a new book out, do you, Bill?”
 
 Me: “That’s right.”
 
-Interviewer: “Well, that’s wonderful. Thanks so much for coming. Our guest tomorrow is Dr. Milton
-Greenberg, who has written a book about bedwetting called Tears at Bedtime.”
+Interviewer: “Well, that’s wonderful. Thanks so much for coming. Our guest tomorrow is Dr. Milton Greenberg, who has written a book about bedwetting called Tears at Bedtime.”
 
-The whole point, as Bill Parkhurst taught me, is to sell yourself shamelessly, and believe me, you soon
-learn to do it. Since that initial experience I have done six other book tours in America, four in Canada,
-three in Australia and New Zealand, two in South Africa, one in continental Europe, and eight in Britain.
-That’s not to mention all the literary festivals and other such events that become part of your life if you
-write for a living and would kind of like people to buy your stuff.
+The whole point, as Bill Parkhurst taught me, is to sell yourself shamelessly, and believe me, you soon learn to do it. Since that initial experience I have done six other book tours in America, four in Canada, three in Australia and New Zealand, two in South Africa, one in continental Europe, and eight in Britain. That’s not to mention all the literary festivals and other such events that become part of your life if you write for a living and would kind of like people to buy your stuff.
 
-I suppose all this is on my mind because by the time you read this I will be in the middle of a three-
-week promotional tour in Britain. Now I don’t want you to think I am sucking up, but touring in Britain is
-a dream compared with nearly every other country. To begin with, distances are shorter than in a country
-like America, which helps a lot, and there is a lot less very early and very late radio and TV to get
-through. That helps a lot, too. Above all, members of the British reading public are unusually intelligent
-and discerning, not to mention enormously good-looking and generous in their purchasing habits. Why, I
-have even known people to throw down a Sunday newspaper and say, “I think I’ll go out and buy that
-book of old Bill’s this very minute. I might even buy several copies as Christmas presents.”
+I suppose all this is on my mind because by the time you read this I will be in the middle of a three- week promotional tour in Britain. Now I don’t want you to think I am sucking up, but touring in Britain is a dream compared with nearly every other country. To begin with, distances are shorter than in a country like America, which helps a lot, and there is a lot less very early and very late radio and TV to get through. That helps a lot, too. Above all, members of the British reading public are unusually intelligent and discerning, not to mention enormously good-looking and generous in their purchasing habits. Why, I have even known people to throw down a Sunday newspaper and say, “I think I’ll go out and buy that book of old Bill’s this very minute. I might even buy several copies as Christmas presents.”
 
-It’s a crazy way to make a living, but it’s one of those things you’ve got to do. I just thank God it hasn’t
+It’s a crazy way to make a living, but it’s one of those things you’ve got to do. I just thank God it hasn’t affected my sincerity.
+
+(This was written for a British audience, of course, but I would just like to say here that American book buyers are also unusually intelligent and discerning, not to mention enormously good-looking and generous.)
 
 
+THE WASTE GENERATION
 
-affected my sincerity.
+One of the most arresting statistics that I have seen in a good while is that 5 percent of all the energy used in the United States is consumed by computers that have been left on all night.
 
+I can’t confirm this personally, but I can certainly tell you that on numerous occasions I have glanced out hotel room windows late at night, in a variety of cities, and been struck by the fact that lots of lights in lots of office buildings are still burning, and that computer screens are indeed flickering.
 
-(This was written for a British audience, of course, but I would just like to say here that American book
-buyers are also unusually intelligent and discerning, not to mention enormously good-looking and
-generous.)
+Why don’t we turn these things off? For the same reason, I suppose, that so many people leave their car engines running when they pop into a friend’s house, or keep lights blazing in unoccupied rooms, or have the central heating cranked up to a level that would scandalize a Finnish sauna housekeeper — because, in short, electricity, gasoline, and other energy sources are so relatively cheap, and have been for so long, that it doesn’t occur to behave otherwise.
 
+Why, after all, go through the irksome annoyance of waiting twenty seconds for your computer to warm up each morning when you can have it at your immediate beck by leaving it on all night?
 
+We are terribly — no, we are ludicrously — wasteful of resources in this country. The average American uses twice as much energy to get through life as the average European. With just 5 percent of the world’s population, we consume 20 percent of its resources. These are not statistics to be proud of.
 
-THE WASTE
-GENERATION
+In 1992 at the Earth Summit in Rio de Janeiro, the United States, along with other developed nations, agreed to reduce the emission of greenhouse gases to 1990 levels by 2000. This wasn’t a promise to think about it. It was a promise to do it.
 
+In the event, greenhouse emissions in the United States have continued relentlessly to rise — by 8 percent overall since the Rio summit, by 3.4 percent in 1996 alone. In short, we haven’t done what we promised. We haven’t tried to do it. We haven’t even pretended to try to do it. Frankly, I’m not sure that we are even capable of trying to pretend to try to do it.
 
-One of the most arresting statistics that I have seen in a good while is that 5 percent of all the energy used
-in the United States is consumed by computers that have been left on all night.
+Consider this: In 1992, Congress decreed that before the end of the decade half of all government vehicles should be able to run on alternative fuels. To comply with this directive, the Postal Service bought ten thousand new trucks and, at a cost of $4,000 each, modified them to run on ethanol as well as gasoline. In May 1998, the first of 350 such trucks ordered for the New York City area began to be delivered. Unfortunately, none of these vehicles is ever likely to use ethanol for the simple reason that the nearest ethanol station is in Indianapolis. When asked by a reporter for the New York Times whether anyone anywhere at any level of government had any intention of doing anything about this, the answer was no. Meanwhile, the Postal Service, along with all other federal agencies, will continue to spend $4,000 a pop of taxpayers’ money modifying trucks to run on a fuel on which almost none of them will ever run.
 
-I can’t confirm this personally, but I can certainly tell you that on numerous occasions I have glanced
-out hotel room windows late at night, in a variety of cities, and been struck by the fact that lots of lights in
-lots of office buildings are still burning, and that computer screens are indeed flickering.
+What the administration has done in terms of greenhouse emissions is introduce a set of voluntary compliance standards that industries are entirely free to ignore if they wish, and mostly of course they so wish. Now President Clinton wants another fifteen or sixteen years before rolling back emissions to 1990 levels.
 
-Why don’t we turn these things off? For the same reason, I suppose, that so many people leave their car
-engines running when they pop into a friend’s house, or keep lights blazing in unoccupied rooms, or have
-the central heating cranked up to a level that would scandalize a Finnish sauna housekeeper — because, in
-short, electricity, gasoline, and other energy sources are so relatively cheap, and have been for so long,
-that it doesn’t occur to behave otherwise.
+Perhaps I am misreading the national mood, but it is hard to find anyone who seems much exercised about this. Increasingly there is even a kind of antagonism to the idea of conservation, particularly if there is a cost attached. A recent survey of twenty-seven thousand people around the globe by a Canadian group called Environics International found that in virtually every advanced nation people were willing to sacrifice at least a small measure of economic growth for cleaner air and a healthier environment. The one exception: the United States. It seems madness to think that a society would rate marginal economic growth above a livable earth, but there you are. I had always assumed that the reason to build a bigger economy was to make the world a better place. In fact, it appears, the reason to build a bigger economy is, well, to build a bigger economy.
 
-Why, after all, go through the irksome annoyance of waiting twenty seconds for your computer to warm
-up each morning when you can have it at your immediate beck by leaving it on all night?
+Even President Clinton’s cautiously inventive proposals to transfer the problem to a successor four terms down the road have met with fervent opposition. A coalition of industrialists and other interested parties called the Global Climate Information Project has raised $13 million to fight pretty much any initiative that gets in the way of their smokestacks. It has been running national radio ads grimly warning that if the president’s new energy plans are implemented gasoline prices could go up by fifty cents a gallon.
 
-We are terribly — no, we are ludicrously — wasteful of resources in this country. The average American
-uses twice as much energy to get through life as the average European. With just 5 percent of the world’s
-population, we consume 20 percent of its resources. These are not statistics to be proud of.
+Never mind that that figure is probably inflated. Never mind that even if it were true we would still be paying but a fraction for gasoline what people in other rich nations pay. Never mind that it would bring benefits that everyone could enjoy. Never mind any of that. Mention an increase in gas prices for any purpose at all and — however small the amount, however sound the reason — most people will instinctively resist.
 
-In 1992 at the Earth Summit in Rio de Janeiro, the United States, along with other developed nations,
-agreed to reduce the emission of greenhouse gases to 1990 levels by 2000. This wasn’t a promise to think
-about it. It was a promise to do it.
+What is saddest about all this is that a good part of these goals to cut greenhouse emissions could be met without any cost at all if we merely modified our extravagance. It has been estimated that the nation as a whole wastes about $300 billion of energy a year. We are not talking here about energy that could be saved by investing in new technologies. We are talking about energy that could be saved just by switching things off or turning things down.
 
-In the event, greenhouse emissions in the United States have continued relentlessly to rise — by 8
-percent overall since the Rio summit, by 3.4 percent in 1996 alone. In short, we haven’t done what we
-promised. We haven’t tried to do it. We haven’t even pretended to try to do it. Frankly, I’m not sure that
-we are even capable of trying to pretend to try to do it.
+Take hot water. Nearly every household in Europe has a timer device on its hot water system Since people clearly don’t need hot water when they are at work or fast asleep, there isn’t any need to keep the tank heated, so the system shuts down. Here in America I don’t know how to switch off my hot water tank. I don’t know that it is possible. There is piping hot water in our house twenty-four hours a day, even when we are far away on vacation. Doesn’t seem to make much sense.
 
-Consider this: In 1992, Congress decreed that before the end of the decade half of all government
-vehicles should be able to run on alternative fuels. To comply with this directive, the Postal Service
-bought ten thousand new trucks and, at a cost of $4,000 each, modified them to run on ethanol as well as
-gasoline. In May 1998, the first of 350 such trucks ordered for the New York City area began to be
-delivered. Unfortunately, none of these vehicles is ever likely to use ethanol for the simple reason that the
-nearest ethanol station is in Indianapolis. When asked by a reporter for the New York Times whether
-anyone anywhere at any level of government had any intention of doing anything about this, the answer
+According to U.S. News & World Report, the United States must maintain the equivalent of five nuclear power plants just to power equipment and appliances that are on but not being used — lights burning in rooms that are unoccupied, computers left on when people go to lunch or home for the night, all those mute, wall-mounted TVs that flicker unwatched in the corners of bars.
 
+In England, we had something called an off-peak energy plan. The idea was to encourage users to shift some of their electricity consumption to nighttime hours, thus spreading demand. So we bought timer devices and ran our washing machine, dryer, and dishwasher in the middle of the night and were rewarded for this small inconvenience with big savings on the electricity consumed during those hours. I would be pleased to continue the practice now, if only some utility would offer it to me.
 
+I am not suggesting that the British are outstandingly virtuous with regard to conservation — in some areas like recycling and insulation their behavior is nothing to write home about — merely that these are simple ideas that could be easily embraced here.
 
+It would be really nice, of course, to see a wholesale change in direction. I would dearly love, for instance, to be able to take a train to Boston. Every time I travel to Boston now, I have either to drive myself or sit in a cramped minibus with up to nine other hapless souls for two and a half hours. How nice it would be to speed across the New England land-scape in the club car of a nicely appointed train, like Cary Grant and Eva Marie Saint in an Alfred Hitchcock movie. Once, not so long ago, it was possible to travel all over New England by train. According to a body called the Conservation Law Foundation, the whole of the rail system in northern New England could be restored for $500 million. That’s a lot of money, of course, but consider this: As I write, Burlington, Vermont, is spending $100 million on a single twelve-mile loop road.
 
-was no. Meanwhile, the Postal Service, along with all other federal agencies, will continue to spend
-$4,000 a pop of taxpayers’ money modifying trucks to run on a fuel on which almost none of them will
-ever run.
+I don’t know how worrying global warming is. No one does. I don’t know how much we are imperiling our futures by being so singularly casual in our consumption. But I can tell you this. Last year I spent a good deal of time hiking the Appalachian Trail. In Virginia, where the trail runs through Shenandoah National Park, it was still possible when I was a teenager to see Washington, D.C., seventy-five miles away, on clear days. Now, in even the most favorable conditions, visibility is less than half that. In hot, smoggy weather, it can be as little as two miles.
 
-What the administration has done in terms of greenhouse emissions is introduce a set of voluntary
-compliance standards that industries are entirely free to ignore if they wish, and mostly of course they so
-wish. Now President Clinton wants another fifteen or sixteen years before rolling back emissions to 1990
-levels.
+The forest that covers the Appalachian Mountains is one of the richest and loveliest on Earth. A single valley in the Great Smoky Mountains National Park can contain more species of native trees than the whole of western Europe. A lot of those trees are in trouble. The stress of dealing with acid rain and other airborne pollutants leaves them helplessly vulnerable to diseases and pests. Oaks, hickories, and maples are dying in unsettling numbers. The flowering dogwood — one of the most beautiful trees in the American South, and once one of the most abundant — is on the brink of extinction. The American hemlock seems poised to follow.
 
-Perhaps I am misreading the national mood, but it is hard to find anyone who seems much exercised
-about this. Increasingly there is even a kind of antagonism to the idea of conservation, particularly if there
-is a cost attached. A recent survey of twenty-seven thousand people around the globe by a Canadian group
-called Environics International found that in virtually every advanced nation people were willing to
-sacrifice at least a small measure of economic growth for cleaner air and a healthier environment. The
-one exception: the United States. It seems madness to think that a society would rate marginal economic
-growth above a livable earth, but there you are. I had always assumed that the reason to build a bigger
-economy was to make the world a better place. In fact, it appears, the reason to build a bigger economy
-is, well, to build a bigger economy.
-
-Even President Clinton’s cautiously inventive proposals to transfer the problem to a successor four
-terms down the road have met with fervent opposition. A coalition of industrialists and other interested
-parties called the Global Climate Information Project has raised $13 million to fight pretty much any
-initiative that gets in the way of their smokestacks. It has been running national radio ads grimly warning
-that if the president’s new energy plans are implemented gasoline prices could go up by fifty cents a
-gallon.
-
-Never mind that that figure is probably inflated. Never mind that even if it were true we would still be
-paying but a fraction for gasoline what people in other rich nations pay. Never mind that it would bring
-benefits that everyone could enjoy. Never mind any of that. Mention an increase in gas prices for any
-purpose at all and — however small the amount, however sound the reason — most people will
-instinctively resist.
-
-What is saddest about all this is that a good part of these goals to cut greenhouse emissions could be
-met without any cost at all if we merely modified our extravagance. It has been estimated that the nation as
-a whole wastes about $300 billion of energy a year. We are not talking here about energy that could be
-saved by investing in new technologies. We are talking about energy that could be saved just by switching
-things off or turning things down.
-
-Take hot water. Nearly every household in Europe has a timer device on its hot water system Since
-people clearly don’t need hot water when they are at work or fast asleep, there isn’t any need to keep the
-tank heated, so the system shuts down. Here in America I don’t know how to switch off my hot water tank.
-I don’t know that it is possible. There is piping hot water in our house twenty-four hours a day, even when
-we are far away on vacation. Doesn’t seem to make much sense.
-
-According to U.S. News & World Report, the United States must maintain the equivalent of five nuclear
-power plants just to power equipment and appliances that are on but not being used — lights burning in
-rooms that are unoccupied, computers left on when people go to lunch or home for the night, all those
-mute, wall-mounted TVs that flicker unwatched in the corners of bars.
-
-In England, we had something called an off-peak energy plan. The idea was to encourage users to shift
-some of their electricity consumption to nighttime hours, thus spreading demand. So we bought timer
-devices and ran our washing machine, dryer, and dishwasher in the middle of the night and were
-rewarded for this small inconvenience with big savings on the electricity consumed during those hours. I
-
-
-
-would be pleased to continue the practice now, if only some utility would offer it to me.
-
-I am not suggesting that the British are outstandingly virtuous with regard to conservation — in some
-areas like recycling and insulation their behavior is nothing to write home about — merely that these are
-simple ideas that could be easily embraced here.
-
-It would be really nice, of course, to see a wholesale change in direction. I would dearly love, for
-instance, to be able to take a train to Boston. Every time I travel to Boston now, I have either to drive
-myself or sit in a cramped minibus with up to nine other hapless souls for two and a half hours. How nice
-it would be to speed across the New England land-scape in the club car of a nicely appointed train, like
-Cary Grant and Eva Marie Saint in an Alfred Hitchcock movie. Once, not so long ago, it was possible to
-travel all over New England by train. According to a body called the Conservation Law Foundation, the
-whole of the rail system in northern New England could be restored for $500 million. That’s a lot of
-money, of course, but consider this: As I write, Burlington, Vermont, is spending $100 million on a single
-twelve-mile loop road.
-
-I don’t know how worrying global warming is. No one does. I don’t know how much we are imperiling
-our futures by being so singularly casual in our consumption. But I can tell you this. Last year I spent a
-good deal of time hiking the Appalachian Trail. In Virginia, where the trail runs through Shenandoah
-National Park, it was still possible when I was a teenager to see Washington, D.C., seventy-five miles
-away, on clear days. Now, in even the most favorable conditions, visibility is less than half that. In hot,
-smoggy weather, it can be as little as two miles.
-
-The forest that covers the Appalachian Mountains is one of the richest and loveliest on Earth. A single
-valley in the Great Smoky Mountains National Park can contain more species of native trees than the
-whole of western Europe. A lot of those trees are in trouble. The stress of dealing with acid rain and other
-airborne pollutants leaves them helplessly vulnerable to diseases and pests. Oaks, hickories, and maples
-are dying in unsettling numbers. The flowering dogwood — one of the most beautiful trees in the American
-South, and once one of the most abundant — is on the brink of extinction. The American hemlock seems
-poised to follow.
-
-This may be only a modest prelude. If global temperatures rise by four degrees Centigrade over the
-next half century, as some scientists confidendy predict, then all of the trees of Shenandoah National Park
-and the Smokies, and for hundreds of miles beyond, will die. In two generations one of the last great
-forests of the temperate world will turn into featureless grassland.
+This may be only a modest prelude. If global temperatures rise by four degrees Centigrade over the next half century, as some scientists confidendy predict, then all of the trees of Shenandoah National Park and the Smokies, and for hundreds of miles beyond, will die. In two generations one of the last great forests of the temperate world will turn into featureless grassland.
 
 I think that’s worth turning off a few computers for, don’t you?
 
@@ -2421,138 +2207,55 @@ I think that’s worth turning off a few computers for, don’t you?
 (for kitchen use only)
 
 
-A SLIGHT
-INCONVENIENCE
+A SLIGHT INCONVENIENCE
 
+Our subject today is convenience in modern life, and how the more convenient things supposedly get the more inconvenient they actually become.
 
-Our subject today is convenience in modern life, and how the more convenient things supposedly get the
-more inconvenient they actually become.
+I was thinking about this the other day (I’m always thinking, you know — it’s amazing) when I took my younger children to a Burger King for lunch, and there was a line of about a dozen cars at the drive- through window.
 
-I was thinking about this the other day (I’m always thinking, you know — it’s amazing) when I took my
-younger children to a Burger King for lunch, and there was a line of about a dozen cars at the drive-
-through window.
+We parked, went in, ordered and ate, and came out again — all in about ten minutes. As we departed, I noticed that a white pickup truck that had been last in line when we arrived was still four or five vehicles back from collecting its food. It would have been much quicker if the driver had parked like us and gone in and gotten his food himself, but he would never have thought that way because the drive-through window is supposed to be speedier and more convenient.
 
-We parked, went in, ordered and ate, and came out again — all in about ten minutes. As we departed, I
-noticed that a white pickup truck that had been last in line when we arrived was still four or five vehicles
-back from collecting its food. It would have been much quicker if the driver had parked like us and gone
-in and gotten his food himself, but he would never have thought that way because the drive-through
-window is supposed to be speedier and more convenient.
+You see my point, of course. We have become so attached to the idea of convenience that we will put up with almost any inconvenience to achieve it. It’s crazy, I know, but there you are. The things that are supposed to speed up and simplify our lives more often than not actually have the opposite effect, and this set me to thinking (see, there I go again) why this should be.
 
-You see my point, of course. We have become so attached to the idea of convenience that we will put
-up with almost any inconvenience to achieve it. It’s crazy, I know, but there you are. The things that are
-supposed to speed up and simplify our lives more often than not actually have the opposite effect, and this
-set me to thinking (see, there I go again) why this should be.
+Americans have always had a strange devotion to the idea of assisted ease. It is an interesting fact that nearly all the everyday inventions that take the struggle out of life — escalators, automatic doors, elevators, refrigerators, washing machines, frozen food, fast food, microwaves, fax machines — were invented here or at least first widely embraced here. Americans grew so used to a steady stream of labor- saving advances, in fact, that by the 1960s they had come to expect machines to do pretty much everything for them
 
-Americans have always had a strange devotion to the idea of assisted ease. It is an interesting fact that
-nearly all the everyday inventions that take the struggle out of life — escalators, automatic doors,
-elevators, refrigerators, washing machines, frozen food, fast food, microwaves, fax machines — were
-invented here or at least first widely embraced here. Americans grew so used to a steady stream of labor-
-saving advances, in fact, that by the 1960s they had come to expect machines to do pretty much everything
-for them
+The moment I first realized that this was not necessarily a good idea was at Christmas of 1961 or ’62 when my father was given an electric carving knife. It was an early model and, like most prototypes, was both bulky and rather formidable. Perhaps my memory is playing tricks on me, but I have a clear impression of him donning goggles and heavy rubber gloves before plugging it in. What is certainly true is that when he sank it into the turkey, it didn’t so much carve the bird as send pieces of it flying everywhere in a kind of fleshy white spray, before the blade struck the plate with a shower of blue sparks, and the whole thing flew out of his hands, and skittered across the table and out of the room, like a creature from a Gremlins movie. We never saw it again, though we used to sometimes hear it thumping against table legs late at night.
 
-The moment I first realized that this was not necessarily a good idea was at Christmas of 1961 or ’62
-when my father was given an electric carving knife. It was an early model and, like most prototypes, was
-both bulky and rather formidable. Perhaps my memory is playing tricks on me, but I have a clear
-impression of him donning goggles and heavy rubber gloves before plugging it in. What is certainly true is
-that when he sank it into the turkey, it didn’t so much carve the bird as send pieces of it flying everywhere
-in a kind of fleshy white spray, before the blade struck the plate with a shower of blue sparks, and the
-whole thing flew out of his hands, and skittered across the table and out of the room, like a creature from a
-Gremlins movie. We never saw it again, though we used to sometimes hear it thumping against table legs
+Like most patriotic Americans, my father was forever buying gizmos that proved to be disastrous — clothes steamers that failed to take the wrinkles out of suits but had wallpaper falling off the walls in whole sheets, an electric pencil sharpener that could consume an entire pencil (including the metal ferrule and the tips of your fingers if you weren’t real quick) in less than a second, a water pick that was so lively it required two people to hold and left the bathroom looking like the inside of a car wash, and much else.
 
+But all of this was nothing compared with the situation today. We are now surrounded with items that do things for us to an almost absurd degree — automatic cat food dispensers, electric juicers and can openers, refrigerators that make their own ice cubes, automatic car windows, disposable toothbrushes that come with the toothpaste already loaded. People are so addicted to convenience that they have become trapped in a vicious circle: The more labor-saving appliances they acquire, the harder they need to work; the harder they work, the more labor-saving appliances they feel they need to acquire.
 
+There is almost nothing, no matter how ridiculous, that won’t find a receptive audience so long as it promises to provide some kind of relief from effort. I recently saw advertised, for $39.95, a “lighted, revolving tie rack.” You push a button and it parades each of your ties before you, saving you the exhausting ordeal of making your selection by hand.
 
-late at night.
+Our house in New Hampshire came replete with contraptions installed by earlier owners, all of them designed to make life that little bit easier. Up to a point, a few actually do, but most are just kind of wondrously useless. One of our rooms, for instance, came equipped with automatic curtains. You flick a switch on the wall and four pairs of curtains effordessly open or close. That, at any rate, is the idea. In practice what happens is that one curtain opens, one closes, one opens and closes repeatedly, and one does nothing at all for five minutes and then starts to emit smoke. We haven’t gone anywhere near them since the first week.
 
-Like most patriotic Americans, my father was forever buying gizmos that proved to be disastrous —
-clothes steamers that failed to take the wrinkles out of suits but had wallpaper falling off the walls in
-whole sheets, an electric pencil sharpener that could consume an entire pencil (including the metal ferrule
-and the tips of your fingers if you weren’t real quick) in less than a second, a water pick that was so lively
-it required two people to hold and left the bathroom looking like the inside of a car wash, and much else.
+something else we inherited was an automatic garage door. In theory, this sounds wonderful and even rather classy. You sweep into the driveway, push a button on a remote control device, and then, depending on your sense of timing, pull into the garage smoothly or take the bottom panel off the door. Then you flick the button again and the door shuts behind you, and anyone walking past thinks: “Wow! Classy guy!”
 
-But all of this was nothing compared with the situation today. We are now surrounded with items that
-do things for us to an almost absurd degree — automatic cat food dispensers, electric juicers and can
-openers, refrigerators that make their own ice cubes, automatic car windows, disposable toothbrushes that
-come with the toothpaste already loaded. People are so addicted to convenience that they have become
-trapped in a vicious circle: The more labor-saving appliances they acquire, the harder they need to work;
-the harder they work, the more labor-saving appliances they feel they need to acquire.
+In reality, I have found, our garage door will close only when it is certain of crushing a tricycle or mangling a rake and, once closed, will not open again until I get up on a chair and do something temperamental to the control box with a screw-driver and hammer, and eventually call in the garage door repairman, a fellow named Jake who has been taking his vacations in the Maldives since we became his clients. I have given Jake more money than I earned in my first four years out of college, and still I don’t have a garage door I can count on.
 
-There is almost nothing, no matter how ridiculous, that won’t find a receptive audience so long as it
-promises to provide some kind of relief from effort. I recently saw advertised, for $39.95, a “lighted,
-revolving tie rack.” You push a button and it parades each of your ties before you, saving you the
-exhausting ordeal of making your selection by hand.
+You see my point again. Automatic curtains and garage doors, electric cat food dispensers and revolving tie racks only seem to make life easier. In fact, all they do is add expense and complication to your existence.
 
-Our house in New Hampshire came replete with contraptions installed by earlier owners, all of them
-designed to make life that little bit easier. Up to a point, a few actually do, but most are just kind of
-wondrously useless. One of our rooms, for instance, came equipped with automatic curtains. You flick a
-switch on the wall and four pairs of curtains effordessly open or close. That, at any rate, is the idea. In
-practice what happens is that one curtain opens, one closes, one opens and closes repeatedly, and one
-does nothing at all for five minutes and then starts to emit smoke. We haven’t gone anywhere near them
-since the first week.
+And therein lie our two important lessons of the day. First, never forget that the first syllable of convenience is con. And second, send your children to garage door-repair school.
 
-something else we inherited was an automatic garage door. In theory, this sounds wonderful and even
-rather classy. You sweep into the driveway, push a button on a remote control device, and then, depending
-on your sense of timing, pull into the garage smoothly or take the bottom panel off the door. Then you flick
-the button again and the door shuts behind you, and anyone walking past thinks: “Wow! Classy guy!”
+Sometime in the early 1930s, Richard Hollingshead of New Jersey bolted a motion picture projector to the roof of his car, climbed into the front seat, and began watching movies that he projected onto the door of his garage.
 
-In reality, I have found, our garage door will close only when it is certain of crushing a tricycle or
-mangling a rake and, once closed, will not open again until I get up on a chair and do something
-temperamental to the control box with a screw-driver and hammer, and eventually call in the garage door
-repairman, a fellow named Jake who has been taking his vacations in the Maldives since we became his
-clients. I have given Jake more money than I earned in my first four years out of college, and still I don’t
-have a garage door I can count on.
+Goodness knows what he was thinking or where the idea came horn, but the sight of flickering images on his garage door intrigued people on his street and they came over to have a look. Soon people horn all over the neighborhood were dropping in to watch movies on Hollingshead’s garage door.
 
-You see my point again. Automatic curtains and garage doors, electric cat food dispensers and
-revolving tie racks only seem to make life easier. In fact, all they do is add expense and complication to
-your existence.
+In 1933, Hollingshead patented the idea and later that year opened America’s first drive-in movie theater in the nearby town of Camden. It was not an immediate success. For years the concept languished, but in the 1950s, as Americans became increasingly mobilized, the idea suddenly took off in a big way. From virtually nothing in 1950, the number of drive-in movie theaters grew to six thousand by late in the decade.
 
-And therein lie our two important lessons of the day. First, never forget that the first syllable of
-convenience is con. And second, send your children to garage door-repair school.
+At their peak, they were almost as numerous and popular as conventional movie theaters. Teenagers could do things in cars they could not with propriety do in a normal theater. Parents with young children were spared the expense of engaging a baby-sitter because they could put the kids in the back in their pajamas. Moms could nurse babies. Some drive-ins even offered special services like laundering. You would drop off a bag of dirty clothes as you entered and pick it up washed, dried, and folded when you left.
 
+And then, almost as quickly as they arose, America’s driveins began to fade away. Today they have largely vanished from the American landscape. Drive down almost any two-lane highway in the country and one thing you can almost certainly count on seeing at some point in the day is a derelict drive-in movie theater.
 
-
-
-Sometime in the early 1930s, Richard Hollingshead of New Jersey bolted a motion picture projector to
-the roof of his car, climbed into the front seat, and began watching movies that he projected onto the door
-of his garage.
-
-Goodness knows what he was thinking or where the idea came horn, but the sight of flickering images
-on his garage door intrigued people on his street and they came over to have a look. Soon people horn all
-over the neighborhood were dropping in to watch movies on Hollingshead’s garage door.
-
-In 1933, Hollingshead patented the idea and later that year opened America’s first drive-in movie
-theater in the nearby town of Camden. It was not an immediate success. For years the concept languished,
-but in the 1950s, as Americans became increasingly mobilized, the idea suddenly took off in a big way.
-From virtually nothing in 1950, the number of drive-in movie theaters grew to six thousand by late in the
-decade.
-
-At their peak, they were almost as numerous and popular as conventional movie theaters. Teenagers
-could do things in cars they could not with propriety do in a normal theater. Parents with young children
-were spared the expense of engaging a baby-sitter because they could put the kids in the back in their
-pajamas. Moms could nurse babies. Some drive-ins even offered special services like laundering. You
-would drop off a bag of dirty clothes as you entered and pick it up washed, dried, and folded when you
-left.
-
-And then, almost as quickly as they arose, America’s driveins began to fade away. Today they have
-largely vanished from the American landscape. Drive down almost any two-lane highway in the country
-and one thing you can almost certainly count on seeing at some point in the day is a derelict drive-in
-movie theater.
-
-Not far horn us, just over the Connecticut River in Vermont, is one of the last remaining drive-ins. It is
-open just on Friday and Saturday nights in summer, and I daresay that when the current owner retires it
-will go altogether. Impetuously, a few nights ago I suggested that we go for the evening.
+Not far horn us, just over the Connecticut River in Vermont, is one of the last remaining drive-ins. It is open just on Friday and Saturday nights in summer, and I daresay that when the current owner retires it will go altogether. Impetuously, a few nights ago I suggested that we go for the evening.
 
 “Why?” said my youngest daughter with great dubiousness.
 
 “Because it will be fun,” I explained.
 
-I was astonished to realize that not only had no one in the family been to a drive-in movie, but they
-weren’t even clear on the principle behind it.
+I was astonished to realize that not only had no one in the family been to a drive-in movie, but they weren’t even clear on the principle behind it.
 
-“It’s simple,” I explained. “You drive into a field with a big screen, park beside a metal post with a
-speaker on it on a length of wire, and hang the speaker on the inside of your car door for the sound.”
-
-
-
+“It’s simple,” I explained. “You drive into a field with a big screen, park beside a metal post with a speaker on it on a length of wire, and hang the speaker on the inside of your car door for the sound.”
 
 “And then?”
 
@@ -2564,28 +2267,13 @@ speaker on it on a length of wire, and hang the speaker on the inside of your ca
 
 “Why not just go to a real movie theater where there’s air-conditioning and comfy seats?”
 
-I tried to think of a compelling answer, but the reasons that leapt to mind — because you can smoke and
-drink beer and smooch extravagandy — didn’t seem to apply here. “Because it will be fun,” I repeated
-again, but with less conviction.
+I tried to think of a compelling answer, but the reasons that leapt to mind — because you can smoke and drink beer and smooch extravagandy — didn’t seem to apply here. “Because it will be fun,” I repeated again, but with less conviction.
 
-Our two teenagers excused themselves at once, arguing that they would sooner have a disfiguring skin
-disease than be seen at a public entertainment with their parents, but my wife, two younger children, and
-my son’s friend Bradley — a precocious eight-year-old whom I would happily leave at a turnout in the
-Nevada desert if the opportunity ever presented itself — reluctantly agreed to give it a try.
+Our two teenagers excused themselves at once, arguing that they would sooner have a disfiguring skin disease than be seen at a public entertainment with their parents, but my wife, two younger children, and my son’s friend Bradley — a precocious eight-year-old whom I would happily leave at a turnout in the Nevada desert if the opportunity ever presented itself — reluctantly agreed to give it a try.
 
-And so we drove over the river to our venerable drive-in. Almost at once I began to remember why
-drive-ins went into such a precipitate decline. To begin with, it is not remotely comfortable to sit in a car
-to watch a movie. If you are in the driver’s seat, you have a steering wheel in your lap the whole time. If
-you are in the back, you can’t really see at all. Unless you had the foresight to clean the windshield before
-you set off, you will be watching the picture through a smear of squashed bugs and road dirt. The sound
-quality from the little speakers is always appalling and tinny and makes every character sound as if he is
-speaking from the inside of a gym locker. In a place like New England, the evenings invariably turn cool,
-so you shut the car windows to keep warm and then spend the rest of the evening wiping condensation
-from the inside of the windshield with the back of your arm Often it rains. Above all, daylight saving time
-means that it isn’t dark enough to see the movies until about 10 P.M.
+And so we drove over the river to our venerable drive-in. Almost at once I began to remember why drive-ins went into such a precipitate decline. To begin with, it is not remotely comfortable to sit in a car to watch a movie. If you are in the driver’s seat, you have a steering wheel in your lap the whole time. If you are in the back, you can’t really see at all. Unless you had the foresight to clean the windshield before you set off, you will be watching the picture through a smear of squashed bugs and road dirt. The sound quality from the little speakers is always appalling and tinny and makes every character sound as if he is speaking from the inside of a gym locker. In a place like New England, the evenings invariably turn cool, so you shut the car windows to keep warm and then spend the rest of the evening wiping condensation from the inside of the windshield with the back of your arm Often it rains. Above all, daylight saving time means that it isn’t dark enough to see the movies until about 10 P.M.
 
-So we sat for ages, one of only about half a dozen cars in a field large enough for 250, and squinted at
-vague, shadowy images on a distant screen.
+So we sat for ages, one of only about half a dozen cars in a field large enough for 250, and squinted at vague, shadowy images on a distant screen.
 
 “I can’t see the picture,” came a voice from the back.
 
@@ -2599,13 +2287,9 @@ vague, shadowy images on a distant screen.
 
 “Who wants a treat?” I said, cannily changing the subject.
 
-I took the children to the refreshment booth and bought enough food to feed a medium-size community
-for six months. By the time we returned to the car, it was almost dark enough to make out the images on the
-screen. However, our speaker kept cutting out. So we moved to another position. In the process, Bradley
-spilled his popcorn, a 24-ounce soda, and a box of malted milk balls.
+I took the children to the refreshment booth and bought enough food to feed a medium-size community for six months. By the time we returned to the car, it was almost dark enough to make out the images on the screen. However, our speaker kept cutting out. So we moved to another position. In the process, Bradley spilled his popcorn, a 24-ounce soda, and a box of malted milk balls.
 
-So I got out and mopped him down with an old blanket I found in the trunk. Then my son announced that
-he needed to go to the bathroom
+So I got out and mopped him down with an old blanket I found in the trunk. Then my son announced that he needed to go to the bathroom
 
 “Would you like to come too, Bradley?” I inquired sweedy.
 
@@ -2619,143 +2303,70 @@ he needed to go to the bathroom
 
 “Nope.”
 
-I took my son to the toilet. When we returned, Bradley announced that he needed to go now. “Real
-bad,” he added for emphasis.
+I took my son to the toilet. When we returned, Bradley announced that he needed to go now. “Real bad,” he added for emphasis.
 
-So I took Bradley. By the time we completed our toilet rounds, the film was half over and no one knew
+So I took Bradley. By the time we completed our toilet rounds, the film was half over and no one knew what was going on. It also turned out that the new speaker was even worse than the previous one had been.
 
-
-
-what was going on. It also turned out that the new speaker was even worse than the previous one had
-been.
-
-So I started the engine again, instructed the kids to hold tight to their drinks and popcorn, and backed
-out of our position. There was a horrible wrenching noise.
+So I started the engine again, instructed the kids to hold tight to their drinks and popcorn, and backed out of our position. There was a horrible wrenching noise.
 
 “You should probably put the speaker back on the post before you drive off,” observed Bradley sagely.
 
-“You’re quite right, Bradley,” I agreed. “Still, this cord might come in handy if I need to garotte
-anyone.”
+“You’re quite right, Bradley,” I agreed. “Still, this cord might come in handy if I need to garotte anyone.”
 
-Bradley announced that he had spilled his drink again and needed to go to the bathroom. So I gave
-Bradley yet another wipe-down and took the kids for more refreshments. By the time we got back, the
-movie was finishing. Between us, we had watched seventeen minutes of it, about eight minutes with
-sound.
+Bradley announced that he had spilled his drink again and needed to go to the bathroom. So I gave Bradley yet another wipe-down and took the kids for more refreshments. By the time we got back, the movie was finishing. Between us, we had watched seventeen minutes of it, about eight minutes with sound.
 
-“Next time you want to waste twenty-two dollars on some harebrained notion, let me know and I’ll
-send a check in the post, and then we can stay at home and watch TY” my wife suggested.
+“Next time you want to waste twenty-two dollars on some harebrained notion, let me know and I’ll send a check in the post, and then we can stay at home and watch TY” my wife suggested.
 
 “Excellent idea,” I agreed.
 
 
 
 
-DROWNING
-IN RED TAPE
+DROWNING IN RED TAPE
 
+I’m not even going to begin to tell you about the frustration of trying to get a foreign-born spouse or other loved one registered as a legal resident in the United States because I haven’t the space, and anyway it is much too boring. Also, I can’t talk about it without weeping copiously. Also, you would think I was making most of it up.
 
-I’m not even going to begin to tell you about the frustration of trying to get a foreign-born spouse or other
-loved one registered as a legal resident in the United States because I haven’t the space, and anyway it is
-much too boring. Also, I can’t talk about it without weeping copiously. Also, you would think I was
-making most of it up.
-
-You would scoff, I am quite sure, if I told you that an acquaintance of ours — an English academic of
-high standing — sat open-mouthed while his daughter was asked such questions as “Have you ever
-engaged in any unlawful commercial vice, including, but not limited to, illegal gambling?” and “Have you
-ever been a member of, or in any way affiliated with, the Communist Party or any other totalitarian
-party?” and — my particular favorite — “Do you plan to practice polygamy in the U.S.?” His daughter, I
-should point out, was five years old.
+You would scoff, I am quite sure, if I told you that an acquaintance of ours — an English academic of high standing — sat open-mouthed while his daughter was asked such questions as “Have you ever engaged in any unlawful commercial vice, including, but not limited to, illegal gambling?” and “Have you ever been a member of, or in any way affiliated with, the Communist Party or any other totalitarian party?” and — my particular favorite — “Do you plan to practice polygamy in the U.S.?” His daughter, I should point out, was five years old.
 
 You see, I am weeping already.
 
-There is something seriously wrong with a government that asks such questions of any person, not
-merely because the questions are intrusive and irrelevant, and not merely because inquiries into one’s
-political affinities fly in the face of our treasured Constitution, but because they are such a preposterous
-and monumental waste of everyone’s time. Who, after all, when asked if he intends to engage in genocide,
-espionage, multiple marriages, or any other of an extremely long and interestingly paranoid list of
-undesirable activities, is going to say: “I certainly do! Say, will this harm my chances of getting in?”
+There is something seriously wrong with a government that asks such questions of any person, not merely because the questions are intrusive and irrelevant, and not merely because inquiries into one’s political affinities fly in the face of our treasured Constitution, but because they are such a preposterous and monumental waste of everyone’s time. Who, after all, when asked if he intends to engage in genocide, espionage, multiple marriages, or any other of an extremely long and interestingly paranoid list of undesirable activities, is going to say: “I certainly do! Say, will this harm my chances of getting in?”
 
-If all that was involved was answering a list of pointless questions under oath, then I would just sigh
-and let it be. But it is infinitely more than that. Acquiring legal status in America involves fingerprints,
-medical examinations, blood tests, letters of affidavit, birth and marriage certificates, employment
-records, proof of financial standing, and much else — and all of it must be assembled, validated,
-presented, and paid for in very specific ways. My wife recently had to make a 250-mile round trip to give
-a blood sample at a clinic recognized by the U.S. Immigration and Naturalization Service even though one
-of the finest university-affiliated hospitals in America is here in the town in which we live.
+If all that was involved was answering a list of pointless questions under oath, then I would just sigh and let it be. But it is infinitely more than that. Acquiring legal status in America involves fingerprints, medical examinations, blood tests, letters of affidavit, birth and marriage certificates, employment records, proof of financial standing, and much else — and all of it must be assembled, validated, presented, and paid for in very specific ways. My wife recently had to make a 250-mile round trip to give a blood sample at a clinic recognized by the U.S. Immigration and Naturalization Service even though one of the finest university-affiliated hospitals in America is here in the town in which we live.
 
-There are endless forms to fill out, each with pages of instructions, which often contradict other
-instructions and almost always lead to the need for more forms. Here, exactly as written, is a typical
-fragment of instructions regarding the presentation of fingerprints:
+There are endless forms to fill out, each with pages of instructions, which often contradict other instructions and almost always lead to the need for more forms. Here, exactly as written, is a typical fragment of instructions regarding the presentation of fingerprints:
 
+Submit a complete set of fingerprints on Form FD-258.... Complete the information on the top of the chart and write your A# (if any) in the space marked “Your no. OCA ” or “Miscellaneous no. MNU. ”
 
-Submit a complete set of fingerprints on Form FD-258.... Complete the information on the top of the
+If you don’t have form FD-258 (and you don’t) or aren’t sure which is your MNU number (and you aren’t), you can spend days repeatedly dialing a phone number that is forever busy, only to be told by a weary, overworked-sounding voice when you finally do get through that you must call another number, which the person tells you once in a mumble and you don’t quite catch, so that you have to go through the entire process again. After a while you begin to understand why flinty-eyed cowpokes in places like Montana turn their ranches into fortresses and threaten to shoot any government officer fool enough to walk into the crosshairs.
 
+And it’s no good just filling in the forms to the best of your ability, because if anything is even a jot out of order, it is all sent back. My wife had her file returned once because the distance between her chin and hairline on a passport-sized photograph was out by one-eighth of an inch.
 
+This has been going on for two years for us. Understand, my wife does not want to practice brain surgery, engage in espionage, assist or collude in the trafficking of drugs, participate in the overthrow of the American government (though, frankly, I would not stand in her way), or take part in any other proscribed activity. She just wants to do a little shopping and be legally resident with her family. Doesn’t seem too much to ask.
 
-chart and write your A# (if any) in the space marked “Your no. OCA ” or “Miscellaneous no. MNU. ”
+Goodness knows what the holdup is. Occasionally we get a request for some additional document. Every few months I write to ask what is happening, occasionally imploring to be put in touch with a real person, some actual human who will surely see that it is a ridiculous waste of government money and everyone’s time to infinitely prolong a process that ought to be routine, but I never get a response.
 
+Three weeks ago, we received a letter from the INS office in London, which we thought must be the official approval at last. Good joke! It was a computer-generated letter saying that because her application had been inactive for twelve months it was being canceled. Inactive! Canceled! Show me to the gun cabinet, please.
 
-If you don’t have form FD-258 (and you don’t) or aren’t sure which is your MNU number (and you
-aren’t), you can spend days repeatedly dialing a phone number that is forever busy, only to be told by a
-weary, overworked-sounding voice when you finally do get through that you must call another number,
-which the person tells you once in a mumble and you don’t quite catch, so that you have to go through the
-entire process again. After a while you begin to understand why flinty-eyed cowpokes in places like
-Montana turn their ranches into fortresses and threaten to shoot any government officer fool enough to
-walk into the crosshairs.
-
-And it’s no good just filling in the forms to the best of your ability, because if anything is even a jot out
-of order, it is all sent back. My wife had her file returned once because the distance between her chin and
-hairline on a passport-sized photograph was out by one-eighth of an inch.
-
-This has been going on for two years for us. Understand, my wife does not want to practice brain
-surgery, engage in espionage, assist or collude in the trafficking of drugs, participate in the overthrow of
-the American government (though, frankly, I would not stand in her way), or take part in any other
-proscribed activity. She just wants to do a little shopping and be legally resident with her family. Doesn’t
-seem too much to ask.
-
-Goodness knows what the holdup is. Occasionally we get a request for some additional document.
-Every few months I write to ask what is happening, occasionally imploring to be put in touch with a real
-person, some actual human who will surely see that it is a ridiculous waste of government money and
-everyone’s time to infinitely prolong a process that ought to be routine, but I never get a response.
-
-Three weeks ago, we received a letter from the INS office in London, which we thought must be the
-official approval at last. Good joke! It was a computer-generated letter saying that because her
-application had been inactive for twelve months it was being canceled. Inactive! Canceled! Show me to
-the gun cabinet, please.
-
-All this is a very roundabout way of getting to a story concerning some British friends of ours here in
-Hanover. The husband is a professor at Dartmouth. Eighteen months ago, he and his family went back to
-England for a year’s sabbatical. When they arrived at Heathrow airport, excited to be back home, the
-immigration officer asked them how long they were staying.
+All this is a very roundabout way of getting to a story concerning some British friends of ours here in Hanover. The husband is a professor at Dartmouth. Eighteen months ago, he and his family went back to England for a year’s sabbatical. When they arrived at Heathrow airport, excited to be back home, the immigration officer asked them how long they were staying.
 
 “A year,” my friend answered brighdy.
 
 “And what about the American child?” the officer asked with a cocked eyebrow.
 
-Their youngest, you see, had been born in America, and they had never bothered to register him as
-British. He was only four, so it wasn’t as if he would be looking for work or anything.
+Their youngest, you see, had been born in America, and they had never bothered to register him as British. He was only four, so it wasn’t as if he would be looking for work or anything.
 
-They explained the situation. The immigration man listened gravely, then went off to consult a
-supervisor.
+They explained the situation. The immigration man listened gravely, then went off to consult a supervisor.
 
-It had been eight years since my friends had left Britain, and they weren’t sure just how much more like
-America it might have grown in that period. So they waited uneasily. After a minute the immigration man
-returned, followed by his supervisor, and said to them in a low voice, “My supervisor is going to ask you
-how long you intend to stay in Britain. Say, Two weeks.’ ”
+It had been eight years since my friends had left Britain, and they weren’t sure just how much more like America it might have grown in that period. So they waited uneasily. After a minute the immigration man returned, followed by his supervisor, and said to them in a low voice, “My supervisor is going to ask you how long you intend to stay in Britain. Say, Two weeks.’ ”
 
 So the supervisor asked them how long they intended to stay, and they said, “Two weeks.”
 
-“Good,” said the supervisor, then added as if by way of an afterthought, “It might be an idea to register
-your child as British within the next day or two, in case you should decide to extend your stay.”
+“Good,” said the supervisor, then added as if by way of an afterthought, “It might be an idea to register your child as British within the next day or two, in case you should decide to extend your stay.”
 
 “Of course,” said my friend.
 
-And they were in. And that was that. And would that it were one-tenth — nay, one-thousandth — as
-
-
-
-simple as that here. It is a source of continuing wonder and dismay to me that in a country as devoted to
-friendliness and helpfulness as America that doesn’t extend to government agencies.
+And they were in. And that was that. And would that it were one-tenth — nay, one-thousandth — as simple as that here. It is a source of continuing wonder and dismay to me that in a country as devoted to friendliness and helpfulness as America that doesn’t extend to government agencies.
 
 Now if you will excuse me, I am going to go off and stock up on ammo.
 
@@ -2764,31 +2375,13 @@ Now if you will excuse me, I am going to go off and stock up on ammo.
 
 LIFE’S MYSTERIES
 
+I don’t understand most things. I really don’t. I am Ml of admiration for people who can talk knowledgeably about household wiring or torque ratios on their car engines, but that’s not me, I’m afraid. I remember years ago, after buying my first car, being asked how big the engine was. “Oh, I don’t know,” I said, quite sincerely. “About this big, I suppose,” and I spread my arms to the appropriate dimensions. It was about then I realized I was not cut out for technical discourse.
 
-I don’t understand most things. I really don’t. I am Ml of admiration for people who can talk
-knowledgeably about household wiring or torque ratios on their car engines, but that’s not me, I’m afraid.
-I remember years ago, after buying my first car, being asked how big the engine was. “Oh, I don’t know,” I
-said, quite sincerely. “About this big, I suppose,” and I spread my arms to the appropriate dimensions. It
-was about then I realized I was not cut out for technical discourse.
+So when I say I don’t understand most things, I am quite sincere. I don’t understand chemistry, anatomy and physiology, mathematics beyond what is necessary to make small change, geophysics, astrophysics, particle physics, molecular biology, or newspaper weather maps, among much else. I don’t know what an enzyme is, or an electron or proton or quark. Don’t have the faintest idea. I don’t even know my own body. I couldn’t begin to tell you what my spleen does or where you would look to find it. I wouldn’t know my own endocrine glands if they reached out and goosed me.
 
-So when I say I don’t understand most things, I am quite sincere. I don’t understand chemistry, anatomy
-and physiology, mathematics beyond what is necessary to make small change, geophysics, astrophysics,
-particle physics, molecular biology, or newspaper weather maps, among much else. I don’t know what an
-enzyme is, or an electron or proton or quark. Don’t have the faintest idea. I don’t even know my own
-body. I couldn’t begin to tell you what my spleen does or where you would look to find it. I wouldn’t
-know my own endocrine glands if they reached out and goosed me.
+Nearly every technological marvel of our age is a source of mystery and wonder to me. Take the mobile telephone. I cannot for the life of me conceive of how these things work. Imagine for the sake of argument that you are in New York and I am in a wheat field in Nebraska and you call me up on my mobile phone. How does the signal that you have generated in New York know to come beaming down to me in a wheat field in Nebraska? And where exactly are our voices when they are traveling back and forth between the two phones? And why don’t we have to shout to be heard? And if modern science can get a voice to travel through thin air and come out clearly thousands of miles away, why can’t they deliver pizza in the same way? And what am I doing in a wheat field in Nebraska anyway?
 
-Nearly every technological marvel of our age is a source of mystery and wonder to me. Take the
-mobile telephone. I cannot for the life of me conceive of how these things work. Imagine for the sake of
-argument that you are in New York and I am in a wheat field in Nebraska and you call me up on my
-mobile phone. How does the signal that you have generated in New York know to come beaming down to
-me in a wheat field in Nebraska? And where exactly are our voices when they are traveling back and
-forth between the two phones? And why don’t we have to shout to be heard? And if modern science can
-get a voice to travel through thin air and come out clearly thousands of miles away, why can’t they deliver
-pizza in the same way? And what am I doing in a wheat field in Nebraska anyway?
-
-You see what I mean? I just don’t understand most things. Here are some other things I have never been
-able to figure out:
+You see what I mean? I just don’t understand most things. Here are some other things I have never been able to figure out:
 
 What did insects do at night before there were electric lights?
 
@@ -2796,77 +2389,42 @@ Why is it that the more hair I lose off the top of my head the more grows in my 
 
 When the phone rings, why does someone always say, “Is that the phone?”
 
-How do aquarium fish get so much energy out of a few little flakes of food? And what are those flakes
-made out of, precisely? And how did anyone ever determine that that is what they want to eat?
+How do aquarium fish get so much energy out of a few little flakes of food? And what are those flakes made out of, precisely? And how did anyone ever determine that that is what they want to eat?
 
-Why do elevators have signs that say “Maximum load 1,200 lbs” or something similar? And why do
-they always put the signs inside where it’s too late to do anything about it? And what are you expected to
+Why do elevators have signs that say “Maximum load 1,200 lbs” or something similar? And why do they always put the signs inside where it’s too late to do anything about it? And what are you expected to do with this information anyway? Are you supposed to turn to the other occupants and say, “I believe I’m about 210 pounds. How much do the rest of you weigh?” Do you ask the heavier people to step off until you have completed your calculations?
 
-
-do with this information anyway? Are you supposed to turn to the other occupants and say, “I believe I’m
-about 210 pounds. How much do the rest of you weigh?” Do you ask the heavier people to step off until
-you have completed your calculations?
-
-Is it actually possible that there are people who can eat I Can’t Believe It’s Not Butter and not believe
-it’s not butter?
+Is it actually possible that there are people who can eat I Can’t Believe It’s Not Butter and not believe it’s not butter?
 
 Why is it that the less leather there is in a woman’s shoe the more it costs?
 
-How did anyone ever invent solitaire? This has been bothering me for years. You could give me a pack
-of cards and all the time in the world, and still it would never occur to me to lay them out in seven
-unequal piles, and to turn the remaining cards over three at a time, and to array those cards in descending
-order by alternate color, and to make four additional piles up on top and put cards there in ascending
-order by suit, and all the rest of it. That would just never occur to me. Never.
+How did anyone ever invent solitaire? This has been bothering me for years. You could give me a pack of cards and all the time in the world, and still it would never occur to me to lay them out in seven unequal piles, and to turn the remaining cards over three at a time, and to array those cards in descending order by alternate color, and to make four additional piles up on top and put cards there in ascending order by suit, and all the rest of it. That would just never occur to me. Never.
 
-Why do we thank someone from the bottom of our heart? Why not the middle of our heart? Why not,
-indeed, the whole heart? Why not the heart, lungs, brains, spleen, etc.?
+Why do we thank someone from the bottom of our heart? Why not the middle of our heart? Why not, indeed, the whole heart? Why not the heart, lungs, brains, spleen, etc.?
 
 Why couldn’t Dick Vitale have found something quieter to do for a living?
 
-Why, when we do something foolish, do we say, “That will teach you to do such and such,” when what
-we mean is, “That will teach you not to do such and such”?
+Why, when we do something foolish, do we say, “That will teach you to do such and such,” when what we mean is, “That will teach you not to do such and such”?
 
 Why is it that phone calls in the middle of the night are always wrong numbers?
 
 Why are planes, trains, and buses on time when you are late and late when you are on time?
 
-How is it that no matter how carefully you examine potted plants before purchasing you always choose
-the one that has a terminal illness?
+How is it that no matter how carefully you examine potted plants before purchasing you always choose the one that has a terminal illness?
 
-How can my computer know when the clocks change between normal time and daylight saving time
-every spring and fall, and yet can’t figure out that when I want to italicize one little word I mean just that
-one lithe word and not everything that follows? Also, why is it that every time I switch it on, it is as if it
-has never been switched on before? Why can’t it come on instantly like a radio or stereo system and just
-do its business? Why does it have to check its innards and announce everyone who has ever had a
-copyright interest in it? Why, above all, when I try to switch it off, does it put up a lithe window that says:
-“Are you sure you want to switch off?”
+How can my computer know when the clocks change between normal time and daylight saving time every spring and fall, and yet can’t figure out that when I want to italicize one little word I mean just that one lithe word and not everything that follows? Also, why is it that every time I switch it on, it is as if it has never been switched on before? Why can’t it come on instantly like a radio or stereo system and just do its business? Why does it have to check its innards and announce everyone who has ever had a copyright interest in it? Why, above all, when I try to switch it off, does it put up a lithe window that says: “Are you sure you want to switch off?”
 
-Why do we foot a bill rather than, say, head it? Why do we say that we are head over heels about
-something when our head normally is over our heels? Why can you slow up but not speed down? Why do
-we say that something that is in rapid mohon is moving fast, but something that is not moving at all is stuck
-fast? Why do we say our nose is running? (Mine slides.)
+Why do we foot a bill rather than, say, head it? Why do we say that we are head over heels about something when our head normally is over our heels? Why can you slow up but not speed down? Why do we say that something that is in rapid mohon is moving fast, but something that is not moving at all is stuck fast? Why do we say our nose is running? (Mine slides.)
 
-How is it that we live in a world in which we can measure the farthest stars, travel at twice the speed
-of sound, and probe the ocean’s depths, and yet they still can’t make a pencil sharpener that isn’t
-completely useless?
+How is it that we live in a world in which we can measure the farthest stars, travel at twice the speed of sound, and probe the ocean’s depths, and yet they still can’t make a pencil sharpener that isn’t completely useless?
 
 Finally, and above all, why would anyone in a free society choose to become a dentist?
 
 
 
-APPROACH
-
-WITH
-
-CAUTION
-
-
+APPROACH WITH CAUTION
 SO SUE ME
 
-
-I have a friend in Britain, an academic, who was recently approached by the lawyers for an American
-company to be an expert witness in a case they were handling. They told him they wanted to fly the lead
-attorney and two assistants to London to meet him.
+I have a friend in Britain, an academic, who was recently approached by the lawyers for an American company to be an expert witness in a case they were handling. They told him they wanted to fly the lead attorney and two assistants to London to meet him.
 
 “Wouldn’t it be simpler and cheaper if I flew to New York instead?” my friend suggested.
 
@@ -2874,100 +2432,29 @@ attorney and two assistants to London to meet him.
 
 And there you have the American legal mind at work.
 
-Now I have no doubt that a large number of American lawyers — well, two anyway — do wonderfully
-worthwhile things that fully justify charging their clients $150 an hour, which I gather is the going rate
-now. But the trouble is that there are just too many of them. In fact — and here is a truly sobering statistic —
-the United States has more lawyers than all the rest of the world put together: almost 800,000 of them, up
-from an already abundant 260,000 in 1960. We now boast 300 lawyers for every 100,000 citizens.
-Britain, by contrast, has 82; Japan a mere 11.
+Now I have no doubt that a large number of American lawyers — well, two anyway — do wonderfully worthwhile things that fully justify charging their clients $150 an hour, which I gather is the going rate now. But the trouble is that there are just too many of them. In fact — and here is a truly sobering statistic — the United States has more lawyers than all the rest of the world put together: almost 800,000 of them, up from an already abundant 260,000 in 1960. We now boast 300 lawyers for every 100,000 citizens. Britain, by contrast, has 82; Japan a mere 11.
 
-And of course all those lawyers need work. Most states now allow lawyers to advertise, and many of
-them most enthusiastically do. You cannot watch TV for half an hour without encountering at least one
-commercial showing a sincere-looking lawyer saying: “Hi, I’m Vinny Slick of Bent and Oily Law
-Associates. If you’ve suffered an injury at work, or been in a vehicular accident, or just feel like having
-some extra money, come to me and we’ll find someone to sue.”
+And of course all those lawyers need work. Most states now allow lawyers to advertise, and many of them most enthusiastically do. You cannot watch TV for half an hour without encountering at least one commercial showing a sincere-looking lawyer saying: “Hi, I’m Vinny Slick of Bent and Oily Law Associates. If you’ve suffered an injury at work, or been in a vehicular accident, or just feel like having some extra money, come to me and we’ll find someone to sue.”
 
-Americans, as is well known, will sue at the drop of a hat. In fact, I daresay someone somewhere has
-sued over a dropped hat, and won $20 million for the pain and suffering it caused. There really is a sense
-that if something goes wrong for whatever reason and you are anywhere in the vicinity, then you ought to
-collect a pile of cash.
+Americans, as is well known, will sue at the drop of a hat. In fact, I daresay someone somewhere has sued over a dropped hat, and won $20 million for the pain and suffering it caused. There really is a sense that if something goes wrong for whatever reason and you are anywhere in the vicinity, then you ought to collect a pile of cash.
 
-This was neady illustrated a couple of years ago when a chemical plant in Richmond, California,
-suffered an explosion that spewed fumes over the town. Within hours, some two hundred lawyers and
-their representatives had descended on the excited community, handing out business cards and advising
-people to present themselves at the local hospital. Twenty thousand residents eagerly did so.
+This was neady illustrated a couple of years ago when a chemical plant in Richmond, California, suffered an explosion that spewed fumes over the town. Within hours, some two hundred lawyers and their representatives had descended on the excited community, handing out business cards and advising people to present themselves at the local hospital. Twenty thousand residents eagerly did so.
 
-News footage of the event makes it look like some kind of open-air party. Of the twenty thousand
-happy, smiling, seemingly very healthy people who lined up for examination at the hospital’s emergency
-room, just twenty were actually admitted. Although the number of proven injuries was slight, to say the
-least, seventy thousand townspeople — virtually all of them — submitted claims. The company agreed to a
-$180 million settlement. Of this, the lawyers got $40 million.
+News footage of the event makes it look like some kind of open-air party. Of the twenty thousand happy, smiling, seemingly very healthy people who lined up for examination at the hospital’s emergency room, just twenty were actually admitted. Although the number of proven injuries was slight, to say the least, seventy thousand townspeople — virtually all of them — submitted claims. The company agreed to a $180 million settlement. Of this, the lawyers got $40 million.
 
-Every year over ninety million lawsuits are filed in this extravagandy litigious country — that’s one for
-every two and a half people — and many of these are what might charitably be called ambitious. As I
+Every year over ninety million lawsuits are filed in this extravagandy litigious country — that’s one for every two and a half people — and many of these are what might charitably be called ambitious. As I write, two parents in Texas are suing a high school baseball coach for benching their son during a game, claiming humiliation and extreme mental anguish. In Washington State, meanwhile, a man with heart problems is suing local dairies “because their milk cartons did not warn him about cholesterol.” I am sure you read recently about the woman in California who sued the Walt Disney Company after she and her family were mugged in a parking lot at Disneyland. A central part of the suit was that her grandchildren suffered shock and trauma when they were taken behind the scenes to be comforted and they saw Disney characters taking off their costumes. The discovery that Mickey Mouse and Goofy were in fact real people inside costumes was apparently too much for the poor tykes.
 
+That case was dismissed, but elsewhere people have won fortunes out of all proportion to any pain or loss they might actually have suffered. recently there was a much-publicized case in which an executive at a Milwaukee brewery recounted the racy plot of an episode of Seinfeld to a female colleague, who took offense and reported him for sexual harassment. The brewery responded by firing the man, and he responded by suing the brewery. Now I don’t know who deserved what in this case — it sounds to me like they all wanted a good, sound spanking — but the upshot is that the dismissed executive was awarded $26.6 million, roughly four hundred thousand times his annual salary, by a sympathetic (i.e., demented) jury.
 
+This sort of thing goes to the highest level. As I write, the estate of Richard M. Nixon is suing the government for $210 million — let me just repeat that sum: $210 million — to compensate the Nixon family for lost earnings from papers and other documents that the government seized as evidence in the Watergate case. You understand what I am saying, of course. A president of the United States, after acting with the crassest illegality, is driven from office in disgrace, and twenty-four years later his family is asking for $210 million of the nation’s money. The day cannot be far off when Bill Clinton will be suing for the mental trauma suffered from having oral sex while trying simultaneously to run a nation. That must be worth at least a couple of billion, surely.
 
+Allied with the idea that lawsuits are a quick way to a fortune, whether deserved or not, is the interesting and uniquely American notion that no matter what happens, someone else must be responsible. So if, say, you smoke eighty cigarettes a day for fifty years and eventually get cancer, then it must be everyone else’s fault but your own, and you sue not only the manufacturer of your cigarettes, but the wholesaler, the retailers, the delivery company that delivered the cigarettes to the retailer, and so on. One of the most extraordinary features of the American legal system is that it allows plaintiffs to sue people and enterprises only tangentially connected to the alleged complaint.
 
-write, two parents in Texas are suing a high school baseball coach for benching their son during a game,
-claiming humiliation and extreme mental anguish. In Washington State, meanwhile, a man with heart
-problems is suing local dairies “because their milk cartons did not warn him about cholesterol.” I am sure
-you read recently about the woman in California who sued the Walt Disney Company after she and her
-family were mugged in a parking lot at Disneyland. A central part of the suit was that her grandchildren
-suffered shock and trauma when they were taken behind the scenes to be comforted and they saw Disney
-characters taking off their costumes. The discovery that Mickey Mouse and Goofy were in fact real
-people inside costumes was apparently too much for the poor tykes.
+Because of the way the system works (or, more accurately, doesn’t work) it is often less expensive for a company or institution to settle out of court than to let the matter proceed to trial. I know a woman who slipped and fell while entering a department store on a rainy day and, to her astonishment and gratification, was offered a more or less instant settlement of $2,500 if she would sign a piece of paper agreeing not to sue. She signed.
 
-That case was dismissed, but elsewhere people have won fortunes out of all proportion to any pain or
-loss they might actually have suffered. recently there was a much-publicized case in which an executive
-at a Milwaukee brewery recounted the racy plot of an episode of Seinfeld to a female colleague, who
-took offense and reported him for sexual harassment. The brewery responded by firing the man, and he
-responded by suing the brewery. Now I don’t know who deserved what in this case — it sounds to me like
-they all wanted a good, sound spanking — but the upshot is that the dismissed executive was awarded
-$26.6 million, roughly four hundred thousand times his annual salary, by a sympathetic (i.e., demented)
-jury.
+The cost of all this to society is enormous — several billion dollars a year at least. New York City alone spends $200 million a year settling “slip and fall” claims — people tripping over curbs and the like. According to a recent ABC television documentary on America’s runaway legal system, because of inflated product liability costs consumers in the United States pay $500 more than they need to for every car they buy, $100 more for football helmets, and $3,000 more for heart pacemakers. According to the documentary, they even pay a little on top (as it were) for haircuts because one or two distressed customers successfully sued their barbers after being given the sort of embarrassing trims that I receive as a matter of routine.
 
-This sort of thing goes to the highest level. As I write, the estate of Richard M. Nixon is suing the
-government for $210 million — let me just repeat that sum: $210 million — to compensate the Nixon family
-for lost earnings from papers and other documents that the government seized as evidence in the Watergate
-case. You understand what I am saying, of course. A president of the United States, after acting with the
-crassest illegality, is driven from office in disgrace, and twenty-four years later his family is asking for
-$210 million of the nation’s money. The day cannot be far off when Bill Clinton will be suing for the
-mental trauma suffered from having oral sex while trying simultaneously to run a nation. That must be
-worth at least a couple of billion, surely.
-
-Allied with the idea that lawsuits are a quick way to a fortune, whether deserved or not, is the
-interesting and uniquely American notion that no matter what happens, someone else must be responsible.
-So if, say, you smoke eighty cigarettes a day for fifty years and eventually get cancer, then it must be
-everyone else’s fault but your own, and you sue not only the manufacturer of your cigarettes, but the
-wholesaler, the retailers, the delivery company that delivered the cigarettes to the retailer, and so on. One
-of the most extraordinary features of the American legal system is that it allows plaintiffs to sue people
-and enterprises only tangentially connected to the alleged complaint.
-
-Because of the way the system works (or, more accurately, doesn’t work) it is often less expensive for
-a company or institution to settle out of court than to let the matter proceed to trial. I know a woman who
-slipped and fell while entering a department store on a rainy day and, to her astonishment and
-gratification, was offered a more or less instant settlement of $2,500 if she would sign a piece of paper
-agreeing not to sue. She signed.
-
-The cost of all this to society is enormous — several billion dollars a year at least. New York City alone
-spends $200 million a year settling “slip and fall” claims — people tripping over curbs and the like.
-According to a recent ABC television documentary on America’s runaway legal system, because of
-inflated product liability costs consumers in the United States pay $500 more than they need to for every
-car they buy, $100 more for football helmets, and $3,000 more for heart pacemakers. According to the
-documentary, they even pay a little on top (as it were) for haircuts because one or two distressed
-customers successfully sued their barbers after being given the sort of embarrassing trims that I receive as
-a matter of routine.
-
-All of which, naturally, has given me an idea. I am going to go and smoke eighty cigarettes, then slip
-
-
-
-and fall while drinking high-cholesterol milk and relating the plot of a Seinfeld show to a passing female
-in the Disneyland parking lot, and then I’ll call Vinny Slick and see if we can strike a deal. I don’t expect
-to settle for less than $2.5 billion — and that’s before we’ve even started talking about my latest haircut.
-
-
+All of which, naturally, has given me an idea. I am going to go and smoke eighty cigarettes, then slip and fall while drinking high-cholesterol milk and relating the plot of a Seinfeld show to a passing female in the Disneyland parking lot, and then I’ll call Vinny Slick and see if we can strike a deal. I don’t expect to settle for less than $2.5 billion — and that’s before we’ve even started talking about my latest haircut.
 
 
 00 joy Outdoors indoors!
@@ -2975,87 +2462,33 @@ to settle for less than $2.5 billion — and that’s before we’ve even starte
 
 THE GREAT INDOORS
 
+I was out for a walk the other day and I was struck by an odd thing. It was a glorious day — as good as a day can get, and very probably the last of its type that we shall see for many a long wintry month around here — yet almost every car that passed had its windows up.
 
-I was out for a walk the other day and I was struck by an odd thing. It was a glorious day — as good as a
-day can get, and very probably the last of its type that we shall see for many a long wintry month around
-here — yet almost every car that passed had its windows up.
+All these drivers had adjusted their temperature controls to create a climate inside their sealed vehicles that was identical to the climate already existing in the larger world outside, and it occurred to me that where fresh air is concerned we have rather lost our minds, or sense of proportion, or something.
 
-All these drivers had adjusted their temperature controls to create a climate inside their sealed vehicles
-that was identical to the climate already existing in the larger world outside, and it occurred to me that
-where fresh air is concerned we have rather lost our minds, or sense of proportion, or something.
+Remarkable as it may seem, we have grown so reflexively habituated to the idea of passing the bulk of our lives in a series of controlled environments that the possibility of an alternative no longer occurs to most of us. So we shop in enclosed malls, and drive to those malls with the car windows up and the air- conditioning on, even when the weather is flawless, as it was on this day. We work in office buildings where we cannot open the windows even if we wanted to — not, of course, that anyone would want to. When we go on vacation, it is often in an outsized motor-home that allows us to view the great outdoors without actually exposing ourselves to it. Increasingly, when we go to a sporting event it is in an indoor stadium. And almost all those Dick and Jane things we did as kids — ride bikes up and down the street, run to the park, play hide ’n’ seek or some game of ball — have pretty much vanished. Walk through almost any American neighborhood now in summer and you won’t see children doing any of this stuff because they are all inside. All you will hear is the uniform hum of air-conditioning units.
 
-Remarkable as it may seem, we have grown so reflexively habituated to the idea of passing the bulk of
-our lives in a series of controlled environments that the possibility of an alternative no longer occurs to
-most of us. So we shop in enclosed malls, and drive to those malls with the car windows up and the air-
-conditioning on, even when the weather is flawless, as it was on this day. We work in office buildings
-where we cannot open the windows even if we wanted to — not, of course, that anyone would want to.
-When we go on vacation, it is often in an outsized motor-home that allows us to view the great outdoors
-without actually exposing ourselves to it. Increasingly, when we go to a sporting event it is in an indoor
-stadium. And almost all those Dick and Jane things we did as kids — ride bikes up and down the street, run
-to the park, play hide ’n’ seek or some game of ball — have pretty much vanished. Walk through almost any
-American neighborhood now in summer and you won’t see children doing any of this stuff because they
-are all inside. All you will hear is the uniform hum of air-conditioning units.
+Cities across the nation have taken to building what are called skywalks — enclosed pedestrian flyovers, climate controlled of course — connecting all the buildings in their down-towns. In Des Moines, Iowa, where I grew up, the first skywalk was erected between a hotel and parking ramp about twenty- five years ago and was such a hit that soon other downtown businesses were getting in on the act. Now it is possible to walk halfway to Omaha without ever experiencing fresh air. All the stores that used to be at street level have moved up to the second floor, where the pedestrian traffic now is. Now the only people you ever see at street level in Des Moines are winos and office workers standing around having a smoke. The outdoors, you see, has become a kind of purgatory, a place to which you are banished.
 
-Cities across the nation have taken to building what are called skywalks — enclosed pedestrian
-flyovers, climate controlled of course — connecting all the buildings in their down-towns. In Des Moines,
-Iowa, where I grew up, the first skywalk was erected between a hotel and parking ramp about twenty- five
-years ago and was such a hit that soon other downtown businesses were getting in on the act. Now it is
-possible to walk halfway to Omaha without ever experiencing fresh air. All the stores that used to be at
-street level have moved up to the second floor, where the pedestrian traffic now is. Now the only people
-you ever see at street level in Des Moines are winos and office workers standing around having a smoke.
-The outdoors, you see, has become a kind of purgatory, a place to which you are banished.
+There are even clubs composed of office workers who change into sweatsuits and spend their lunch hours taking brisk, healthful hikes along a measured course through the skywalks. Similar clubs, typically composed of retired people, can be found at nearly every shopping mall in the nation. These are people, you understand, who meet at malls not to shop but to get their daily exercise.
 
-There are even clubs composed of office workers who change into sweatsuits and spend their lunch
-hours taking brisk, healthful hikes along a measured course through the skywalks. Similar clubs, typically
-composed of retired people, can be found at nearly every shopping mall in the nation. These are people,
-you understand, who meet at malls not to shop but to get their daily exercise.
-
-
-
-The last time I was in Des Moines, I ran into an old friend of the family. He was dressed in a sweatsuit
-and flushed with that glow that denotes recent healthful activity. He told me that he had just come from a
-session with the Valley West Mall Hiking Club. It was a splendid April day, and I asked him why the club
-didn’t use any of the city’s several large and handsome parks.
+The last time I was in Des Moines, I ran into an old friend of the family. He was dressed in a sweatsuit and flushed with that glow that denotes recent healthful activity. He told me that he had just come from a session with the Valley West Mall Hiking Club. It was a splendid April day, and I asked him why the club didn’t use any of the city’s several large and handsome parks.
 
 “No rain, no cold, no hills, no muggers,” he replied without hesitation.
 
 “But there are no muggers in Des Moines,” I pointed out.
 
-“That’s right,” he agreed at once, “and do you know why? Because there’s nobody outside to mug.” He
-nodded his head emphatically, as if I hadn’t thought of that, as indeed I had not.
+“That’s right,” he agreed at once, “and do you know why? Because there’s nobody outside to mug.” He nodded his head emphatically, as if I hadn’t thought of that, as indeed I had not.
 
-The apotheosis of this strange movement may be the Opryland Hotel in Nashville, Tennessee, where I
-went not long ago on an assignment for a magazine. The Opryland Hotel is a most extraordinary
-institution. To begin with, it is immense — essentially, it is a self-contained city — and almost gorgeously
-ugly, a sort of Graceland meets Gone with the Wind meets Mall of America.
+The apotheosis of this strange movement may be the Opryland Hotel in Nashville, Tennessee, where I went not long ago on an assignment for a magazine. The Opryland Hotel is a most extraordinary institution. To begin with, it is immense — essentially, it is a self-contained city — and almost gorgeously ugly, a sort of Graceland meets Gone with the Wind meets Mall of America.
 
-But what really sets the Opryland apart is that it is a Total Indoor Environment. At its heart are three
-stupendously commodious glass-roofed atriums, five or six stories high and extending to nine acres
-overall, which offer all the benefits of the out-of-doors without any of the inconveniences. These
-“interiorscapes,” as the hotel fondly calls them, are replete with tropical foliage, full-sized trees,
-waterfalls, streams, “open-air” restaurants and cafes, and multilevel walkways. The effect is strikingly
-reminiscent of those illustrations you used to get in Popular Science magazine in the 1950s showing what
-life would be like in a space colony on Venus (or at least what it would be like if all the space colonists
-were overweight middle-aged people in Nike sneakers and baseball caps who spent their lives walking
-around eating handheld food). It is, in short, a flawless, aseptic, self-contained world, with a perfect
-unvarying climate and an absence of messy birds, annoying insects, irksome and unpredictable weather, or
-indeed any kind of reality.
+But what really sets the Opryland apart is that it is a Total Indoor Environment. At its heart are three stupendously commodious glass-roofed atriums, five or six stories high and extending to nine acres overall, which offer all the benefits of the out-of-doors without any of the inconveniences. These “interiorscapes,” as the hotel fondly calls them, are replete with tropical foliage, full-sized trees, waterfalls, streams, “open-air” restaurants and cafes, and multilevel walkways. The effect is strikingly reminiscent of those illustrations you used to get in Popular Science magazine in the 1950s showing what life would be like in a space colony on Venus (or at least what it would be like if all the space colonists were overweight middle-aged people in Nike sneakers and baseball caps who spent their lives walking around eating handheld food). It is, in short, a flawless, aseptic, self-contained world, with a perfect unvarying climate and an absence of messy birds, annoying insects, irksome and unpredictable weather, or indeed any kind of reality.
 
-On my first evening, anxious to escape the hordes of shuffling grazers and curious to see what the
-weather was like back on Planet Earth, I stepped outside with a view to having a stroll through the
-grounds. And guess what? There were no grounds — just acres and acres of parking lot, stretching away to
-an unseen horizon like a great inland sea. A couple of hundred yards away was the perimeter fence of the
-Opryland Amusement Park, but there was no foot access to the park from the hotel. The only way of
-getting there, I discovered by inquiring, was to purchase a $3 ticket and board an air-conditioned bus for
-a forty-five-second ride to the front gate.
+On my first evening, anxious to escape the hordes of shuffling grazers and curious to see what the weather was like back on Planet Earth, I stepped outside with a view to having a stroll through the grounds. And guess what? There were no grounds — just acres and acres of parking lot, stretching away to an unseen horizon like a great inland sea. A couple of hundred yards away was the perimeter fence of the Opryland Amusement Park, but there was no foot access to the park from the hotel. The only way of getting there, I discovered by inquiring, was to purchase a $3 ticket and board an air-conditioned bus for a forty-five-second ride to the front gate.
 
-Unless you wanted to walk around among thousands and thousands of parked cars, there was no place
-to take the air or stretch your legs. At Opryland, the outdoors is indoors, and that, I realized with a shiver,
-is precisely the way many millions of people would have the whole world if it were possible.
+Unless you wanted to walk around among thousands and thousands of parked cars, there was no place to take the air or stretch your legs. At Opryland, the outdoors is indoors, and that, I realized with a shiver, is precisely the way many millions of people would have the whole world if it were possible.
 
-As I stood there, a bird dropped onto the toe of my left shoe the sort of thing you don’t normally
-appreciate a bird’s dropping (to coin a phrase). I looked from the sky to my shoe and back to the sky
-again.
+As I stood there, a bird dropped onto the toe of my left shoe the sort of thing you don’t normally appreciate a bird’s dropping (to coin a phrase). I looked from the sky to my shoe and back to the sky again.
 
 “Thank you,” I said, and I believe I nearly meant it.
 
@@ -3063,107 +2496,48 @@ again.
 
 DEATH WATCH
 
+The last time it occurred to me, in a serious way, that Death is out there — you know, really out there, just hovering — and that my name is in his book, was on a short flight from Boston to Lebanon, New Hampshire, when we got in a little trouble.
 
-The last time it occurred to me, in a serious way, that Death is out there — you know, really out there, just
-hovering — and that my name is in his book, was on a short flight from Boston to Lebanon, New
-Hampshire, when we got in a little trouble.
+The flight is only fifty minutes, over the old industrial towns of northern Massachusetts and southern New Hampshire, and on toward the Connecticut River, where the plump hills of the Green and White Mountains lazily merge. It was a late October afternoon, just after the clocks had changed for winter, and I had rather hoped I might enjoy the last russety blush of autumn color on the hills before the daylight went, but within five minutes of takeoff our little sixteen-seater plane was enveloped in bouncy clouds, and it was obvious that there would be no spectacular panoramas this day.
 
-The flight is only fifty minutes, over the old industrial towns of northern Massachusetts and southern
-New Hampshire, and on toward the Connecticut River, where the plump hills of the Green and White
-Mountains lazily merge. It was a late October afternoon, just after the clocks had changed for winter, and I
-had rather hoped I might enjoy the last russety blush of autumn color on the hills before the daylight went,
-but within five minutes of takeoff our little sixteen-seater plane was enveloped in bouncy clouds, and it
-was obvious that there would be no spectacular panoramas this day.
+So I read a book and tried not to notice the turbulence or to let my thoughts preoccupy themselves with unhappy fantasies involving splintering wings and a long, shrill, vertical plunge to earth.
 
-So I read a book and tried not to notice the turbulence or to let my thoughts preoccupy themselves with
-unhappy fantasies involving splintering wings and a long, shrill, vertical plunge to earth.
-
-I hate little planes. I don’t like most planes much, but little planes I dread because they are cold and
-bouncy and make odd noises, and they carry too few passengers to attract more than passing attention
-when they crash, as they seem to do quite regularly. Almost every day in any newspaper you will see an
-article like this:
+I hate little planes. I don’t like most planes much, but little planes I dread because they are cold and bouncy and make odd noises, and they carry too few passengers to attract more than passing attention when they crash, as they seem to do quite regularly. Almost every day in any newspaper you will see an article like this:
 
 
-Dribbleville, Indiana — All nine passengers and crew died today when a 16-seat commuter plane
-operated by Bounce Airlines crashed in a ball of flames shortly after takeoff from Dribbleville
-Regional Arport. Witnesses said the plane did four figure eights in the sky, then fell for, oh gosh, a
-really long time before slamming into the ground at 1,892 miles an hour. It was the eleventh little-
-noted crash by a commuter airline since Sunday.
+Dribbleville, Indiana — All nine passengers and crew died today when a 16-seat commuter plane operated by Bounce Airlines crashed in a ball of flames shortly after takeoff from Dribbleville Regional Arport. Witnesses said the plane did four figure eights in the sky, then fell for, oh gosh, a really long time before slamming into the ground at 1,892 miles an hour. It was the eleventh little- noted crash by a commuter airline since Sunday.
 
+These things really do go down all the time. In 1997, a commuter plane crashed on a flight from Cincinnati to Detroit. One of the passengers who died was on her way to a memorial service for her brother, who had been killed in a crash in West Virginia two weeks before.
 
-These things really do go down all the time. In 1997, a commuter plane crashed on a flight from
-Cincinnati to Detroit. One of the passengers who died was on her way to a memorial service for her
-brother, who had been killed in a crash in West Virginia two weeks before.
+So I tried to read my book, but I kept glancing out the window into the impenetrable murk, something over an hour into the flight — later than usual — we descended through the bumpy clouds and popped out into clear air. We were only a few hundred feet over a dusky landscape. There were one or two farmhouses visible in the last traces of daylight, but no towns. Mountains, severe and muscular, loomed up around us on all sides.
 
-So I tried to read my book, but I kept glancing out the window into the impenetrable murk, something
-over an hour into the flight — later than usual — we descended through the bumpy clouds and popped out
-into clear air. We were only a few hundred feet over a dusky landscape. There were one or two
+We rose back up into the clouds, flew around for a few minutes, and dropped down again. There was still no sign of Lebanon or any other community, which was perplexing because the Connecticut River Valley is full of little towns. Here there was nothing but darkening forest stretching to every horizon.
 
+We rose again, and repeated the exercise twice more. After a few minutes, the pilot came on and in that calm, unflappable voice of airline pilots said: “I don’t know if you folks have noticed, but we’re, ah, having a little trouble eyeballing the airport on account of the, ah, inclement weather. There’s no radar at Lebanon, so we have to do all of this visually, which makes it a little, ah, tricky. The whole of the eastern seaboard is socked in with fog, so there’s no point in trying another air-port. Anyway, we’re gonna keep trying because if there is one thing for certain it’s that sooner or later this baby is going to have to come down somewhere !”
 
+Actually, I just made that last line up, but that was the gist of it. We were blundering around in clouds and dying light looking for an airport tucked among mountains. We had been in the air for almost ninety minutes by now. I didn’t know how long these things could fly, but at some point clearly we would run out of fuel. Meanwhile, at any moment we could, in the course of our blundering drops through the clouds, slam into the side of a mountain.
 
-farmhouses visible in the last traces of daylight, but no towns. Mountains, severe and muscular, loomed up
-around us on all sides.
+This didn’t seem fair. I was on my way home from a long trip. Scrubbed little children, smelling of soap and fresh towels, would be waiting. There was steak for dinner, possibly with onion rings. Extra wine had been laid in. I had gifts to disburse. This was not a convenient time to be flying into mountains. So I shut my eyes and said in a very sincere inner voice: “Please oh please oh please oh please get this thing down safely, and I will be exceptionally good forever, and I really mean it. Thank you.”
 
-We rose back up into the clouds, flew around for a few minutes, and dropped down again. There was
-still no sign of Lebanon or any other community, which was perplexing because the Connecticut River
-Valley is full of little towns. Here there was nothing but darkening forest stretching to every horizon.
+And miraculously it worked. On about the sixth occasion that we popped from the clouds, there below us were the flat roofs, illuminated signs, and gorgeously tubby customers of the Kmart Shopping Plaza, and just across the road from it was the perimeter fence of the airport. We were aimed slightly the wrong way, but the pilot banked sharply and brought the plane in on a glidepath that would, in any other circumstance, have had me shrieking.
 
-We rose again, and repeated the exercise twice more. After a few minutes, the pilot came on and in that
-calm, unflappable voice of airline pilots said: “I don’t know if you folks have noticed, but we’re, ah,
-having a little trouble eyeballing the airport on account of the, ah, inclement weather. There’s no radar at
-Lebanon, so we have to do all of this visually, which makes it a little, ah, tricky. The whole of the eastern
-seaboard is socked in with fog, so there’s no point in trying another air-port. Anyway, we’re gonna keep
-trying because if there is one thing for certain it’s that sooner or later this baby is going to have to come
-down somewhere !”
+We landed with a lovely smooth squeal. I have never been so happy. My wife was waiting for me in the car outside the airport entrance, and on the way home I told her all about my gripping adventure in the sky. The trouble with believing that you are about to die in a crash, as opposed to actually dying in a crash, is that it doesn’t make nearly as good a story.
 
-Actually, I just made that last line up, but that was the gist of it. We were blundering around in clouds
-and dying light looking for an airport tucked among mountains. We had been in the air for almost ninety
-minutes by now. I didn’t know how long these things could fly, but at some point clearly we would run out
-of fuel. Meanwhile, at any moment we could, in the course of our blundering drops through the clouds,
-slam into the side of a mountain.
+“You poor sweetie,” my wife said soothingly, but just a little distractedly, and patted my leg. “Well, you’ll be home in a minute and there’s a lovely cauliflower supreme in the oven for you.”
 
-This didn’t seem fair. I was on my way home from a long trip. Scrubbed little children, smelling of
-soap and fresh towels, would be waiting. There was steak for dinner, possibly with onion rings. Extra
-wine had been laid in. I had gifts to disburse. This was not a convenient time to be flying into mountains.
-So I shut my eyes and said in a very sincere inner voice: “Please oh please oh please oh please get this
-thing down safely, and I will be exceptionally good forever, and I really mean it. Thank you.”
-
-And miraculously it worked. On about the sixth occasion that we popped from the clouds, there below
-us were the flat roofs, illuminated signs, and gorgeously tubby customers of the Kmart Shopping Plaza,
-and just across the road from it was the perimeter fence of the airport. We were aimed slightly the wrong
-way, but the pilot banked sharply and brought the plane in on a glidepath that would, in any other
-circumstance, have had me shrieking.
-
-We landed with a lovely smooth squeal. I have never been so happy. My wife was waiting for me in the
-car outside the airport entrance, and on the way home I told her all about my gripping adventure in the sky.
-The trouble with believing that you are about to die in a crash, as opposed to actually dying in a crash, is
-that it doesn’t make nearly as good a story.
-
-“You poor sweetie,” my wife said soothingly, but just a little distractedly, and patted my leg. “Well,
-you’ll be home in a minute and there’s a lovely cauliflower supreme in the oven for you.”
-
-I looked at her. “Cauliflower supreme? What the — ” I cleared my throat and put on a new voice. “And
-what is cauliflower supreme exactly, dear? I understood we were having steak.”
+I looked at her. “Cauliflower supreme? What the — ” I cleared my throat and put on a new voice. “And what is cauliflower supreme exactly, dear? I understood we were having steak.”
 
 “We were, but this is much healthier for you. Maggie Higgins gave me the recipe.”
 
-I sighed. Maggie Higgins was a health-conscious busybody whose assertive views on diet were
-forever being translated into dishes like cauliflower supreme for me. She was fast becoming the bane of
-my life, or at least of my stomach.
+I sighed. Maggie Higgins was a health-conscious busybody whose assertive views on diet were forever being translated into dishes like cauliflower supreme for me. She was fast becoming the bane of my life, or at least of my stomach.
 
-Life’s a funny thing, isn’t it? One minute you’re praying to be allowed to live, vowing to face any
-hardship without complaint, and the next you are mentally banging your head on the dashboard and
-thinking: “I wanted steak, I wanted steak, I wanted steak.”
+Life’s a funny thing, isn’t it? One minute you’re praying to be allowed to live, vowing to face any hardship without complaint, and the next you are mentally banging your head on the dashboard and thinking: “I wanted steak, I wanted steak, I wanted steak.”
 
-“Did I tell you, by the way,” my wife went on, “that Maggie fell asleep with hair coloring on the other
-day and her hair turned bright green?”
+“Did I tell you, by the way,” my wife went on, “that Maggie fell asleep with hair coloring on the other day and her hair turned bright green?”
 
 “Really?” I said, perking up a little. This was good news indeed. “Bright green, you say?”
 
-
-
-“Well, everyone told her it was lemony, but really, you know, it looked like Astroturf.”
-“Amazing,” I said — and it was. I mean to say, two prayers answered in one day.
+“Well, everyone told her it was lemony, but really, you know, it looked like Astroturf.” “Amazing,” I said — and it was. I mean to say, two prayers answered in one day.
 
 
 
@@ -3173,44 +2547,17 @@ day and her hair turned bright green?”
 
 IN PRAISE OF DINERS
 
+A couple of years ago, when I was sent ahead of the rest of the family to scout out a place for us to live, I included the town of Adams, Massachusetts, as a possibility because it had a wonderful old-fashioned diner on Main Street.
 
-A couple of years ago, when I was sent ahead of the rest of the family to scout out a place for us to live, I
-included the town of Adams, Massachusetts, as a possibility because it had a wonderful old-fashioned
-diner on Main Street.
+Unfortunately, I was compelled to remove Adams from the short list when I was unable to recall a single other virtue in the town, possibly because it didn’t have any. Still, I believe I would have been happy there. Diners tend to take you like that.
 
-Unfortunately, I was compelled to remove Adams from the short list when I was unable to recall a
-single other virtue in the town, possibly because it didn’t have any. Still, I believe I would have been
-happy there. Diners tend to take you like that.
+Diners were once immensely popular, but like so much else they have become increasingly rare. Their heyday was the years between the wars, when Prohibition shut the taverns and people needed some place else to go for lunch. From a business point of view, diners were an appealing proposition. They were cheap to buy and maintain and, because they were factory built, they came virtually complete. Having acquired one, all you had to do was set it on a level piece of ground, hook up water and electricity, and you were in business. If trade didn’t materialize, you simply loaded it onto a flatbed truck and tried your luck elsewhere. By the late 1920s, about a score of companies were mass-producing diners, nearly all in a streamlined art deco style known as moderne, with gleaming stainless-steel exteriors, and insides of polished dark wood and more shiny metal.
 
-Diners were once immensely popular, but like so much else they have become increasingly rare. Their
-heyday was the years between the wars, when Prohibition shut the taverns and people needed some place
-else to go for lunch. From a business point of view, diners were an appealing proposition. They were
-cheap to buy and maintain and, because they were factory built, they came virtually complete. Having
-acquired one, all you had to do was set it on a level piece of ground, hook up water and electricity, and
-you were in business. If trade didn’t materialize, you simply loaded it onto a flatbed truck and tried your
-luck elsewhere. By the late 1920s, about a score of companies were mass-producing diners, nearly all in
-a streamlined art deco style known as moderne, with gleaming stainless-steel exteriors, and insides of
-polished dark wood and more shiny metal.
+Diner enthusiasts are a somewhat obsessive breed. They can tell you whether a particular diner is a 1947 Kullman Blue Comet or a 1932 Worcester Semi-Streamliner. They appreciate the design details that mark out a Ralph Musi from a Starlite or an O’ Mahoney, and will drive long distances to visit a rare and well-preserved Sterling, of which only seventy-three were made between 1935 and 1941.
 
-Diner enthusiasts are a somewhat obsessive breed. They can tell you whether a particular diner is a
-1947 Kullman Blue Comet or a 1932 Worcester Semi-Streamliner. They appreciate the design details that
-mark out a Ralph Musi from a Starlite or an O’ Mahoney, and will drive long distances to visit a rare and
-well-preserved Sterling, of which only seventy-three were made between 1935 and 1941.
+The one thing they don’t talk about much is food. This is because diner food is generally much the same wherever you go — which is to say, not very good. My wife and children refuse to accompany me to diners for this very reason. What they fail to appreciate is that going to diners is not about eating; it’s about saving a crucial part of America’s heritage.
 
-The one thing they don’t talk about much is food. This is because diner food is generally much the same
-wherever you go — which is to say, not very good. My wife and children refuse to accompany me to diners
-for this very reason. What they fail to appreciate is that going to diners is not about eating; it’s about
-saving a crucial part of America’s heritage.
-
-We didn’t have diners in Iowa when I was growing up. They were mostly an East Coast phenomenon,
-just as restaurants built in the shape of things (pigs, doughnuts, derby hats) were a West Coast
-phenomenon. The closest thing we had to a diner was a place down by the Raccoon River called Ernie’s
-Grill. Everything about it was squalid and greasy, including Ernie, and the food was appalling, but it did
-have many of the features of a diner, notably a long counter with twirly stools, a wall of booths, patrons
-who looked as if they had just come in from killing big animals in the woods, possibly with their teeth,
-
-
-and a fondness for diner-style lingo. When you ordered, the waitress would call out to the kitchen in some
+We didn’t have diners in Iowa when I was growing up. They were mostly an East Coast phenomenon, just as restaurants built in the shape of things (pigs, doughnuts, derby hats) were a West Coast phenomenon. The closest thing we had to a diner was a place down by the Raccoon River called Ernie’s Grill. Everything about it was squalid and greasy, including Ernie, and the food was appalling, but it did have many of the features of a diner, notably a long counter with twirly stools, a wall of booths, patrons who looked as if they had just come in from killing big animals in the woods, possibly with their teeth, and a fondness for diner-style lingo. When you ordered, the waitress would call out to the kitchen in some
 indecipherable code, “Two spots on a dot — easy on the Brylcreem Dribble on the griddle and cough
 twice in a bucket,” or something similarly alarming and mystifying.
 
